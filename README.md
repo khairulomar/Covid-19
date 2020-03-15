@@ -11,4 +11,5 @@ See <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/ma
   
 #### Forecast for the UK
 Based on actual data up to Mar 13, an ARIMA(1,2,1) time series model gives out the following forecast on new confirmed cases in the UK:
+<p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/forecast_uk.png?raw=true" align=left> 
