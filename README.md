@@ -10,6 +10,6 @@ See <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/ma
 <p>
   
 #### Forecast for the UK
-Based on actual cases up to Mar 12, an ARIMA(1,2,1) time series model gives out the following forecast on new cases over the next six weeks:
+Based on actual cases up to Mar 11, an ARIMA(1,2,1) time series model gives out the following forecast on new cases over the next six weeks:
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/forecast_uk.png?raw=true" align=left> 
