@@ -18,21 +18,27 @@ From the figure above, we shall see that countries which still has a high growth
 <b>Figure 3: Total actual and 5-day projected number of cumulated cases for key countries</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/total_cases.png?raw=true">
   
-## Forecasting the peak and plateau of outbreak by country
-### Basis of forecasting model
+## Basis of forecasting model
 As China and South Korea are the only two countries that are heading towards a plateau in the outbreak, we can look on how the total number of cases evolved from the start until the number of cases stabilises. Although both countries have a fairly similar pattern as shown in the normalized plot below, the shape of the curvature and its timing differs - which required tailored model parameters for each country to be forecasted.
 <p>
 <b>Figure 4: Comparing how the number of cases reached a plateau in China versus Korea</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/china_korea.png?raw=true">
-<b>
+<p>
 The general logistic function (or <a href="https://en.wikipedia.org/wiki/Generalised_logistic_function">Richard's curve</a>) is chosen as the basis of the forecasting model due to its resemblance to the life cycle of the outbreak.
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/richards_curve.PNG?raw=true">
 <p>
-Actual data to date is fit to this curve whereby the parameters used in the equation is fine tuned using <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html">SciPy</a> package in Python via least squares method. Below are the results when the optimized model is applied to data for China and Korea to compare how it performs versus actual to date and the reasonable forecast to be expected.
+Actual data to date is fit to this curve whereby the parameters used in the equation is fine tuned using <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html">SciPy</a> package in Python via least squares method. Below are the results when the optimized model is applied to data for China and Korea to compare how it performs versus actual to date and the reasonable forecast to be expected. For the purpose of this model, it is assumed that re-infection is very unlikely and a second peak of outbreak does not occur.
 <p>
 <b>Figure 5: Forecast results for China and South Korea<b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_China.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_South_Korea.png?raw=true">
   
-### Model for key countries
+## Forecast for key countries
+Using the technique applied and tested for China and South Korea, the model is rolled out to other key countries in order to identify the possible timing of two key milestones:
+1. The turning point when the number of new cases would start to drop 
+2. The amount of time remaining before the total number of cases would stabilize due to very small number of new cases. Note that this should not be strictly interpreted as the end of outbreak or the lockdown measures for a given country as there are other factors at play.
+<p>
+<b>Disclaimer: Please treat the results of the forecast with caution and refer to the respective countries' medical agencies and the World Health Organization as the leading authority for any conclusion</b>
+<p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Italy.png?raw=true">
