@@ -26,7 +26,7 @@ As China and South Korea are the only two countries that are heading towards a p
 <b>Figure 4: Comparing how the number of cases reached a plateau in China versus Korea</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/china_korea.png?raw=true">
 <p>
-The <b>general logistic function</b> (or <b><a href="https://en.wikipedia.org/wiki/Generalised_logistic_function">Richard's curve</a><b>) is chosen as the basis of the forecasting model due to its resemblance to the life cycle of the outbreak.
+The <b>general logistic function</b> (or <b><a href="https://en.wikipedia.org/wiki/Generalised_logistic_function">Richard's curve</a></b>) is chosen as the basis of the forecasting model due to its resemblance to the life cycle of the outbreak.
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/richards_curve.PNG?raw=true">
 <p>
