@@ -6,17 +6,17 @@ My analysis and forecast of the Coronavirus pandemic as it happens using daily r
 ## Analysis of actual confirmed cases to date
 While China still holds the most number of confirmed cases to date, the centre of the outbreak now concentrates in Europe and the United States while continues to record large number of new cases everyday.   
 <p>
-  <u>Figure 1: Latest number of cumulated cases and new daily cases for Top 20 countries</u>
+<b>Figure 1: Latest number of cumulated cases and new daily cases for Top 20 countries</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/total_cases_bar.png?raw=true">
 <p>
 While the total number of cases is a key indicator, it is also critical to analyse the <b>growth factor</b> or the rate at which the total number of cases increases each day. A factor close to 1.0 indicates that a plateau is about to be reached where the number of new cases would be relatively small.
 <p>
-  <u>Figure 2: Changes in growth factor of key countries since the onset of the outbreak</u>
+<b>Figure 2: Changes in growth factor of key countries since the onset of the outbreak</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/growth.png?raw=true">
 <p>
 From Figure 2 above, we can see can see that countries which still has a high growth rate is projected to continue to have large number of new cases. As the growth of a viral outbreak is exponential in nature, we can demonstrate how the total number of cases would continue to multiply if the latest growth rates do not start to subside.
 <p>
-  <u>Figure 3: Total actual and 5-day projected number of cumulated cases for key countries</u>
+<b>Figure 3: Total actual and 5-day projected number of cumulated cases for key countries</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/total_cases.png?raw=true">
   
 ## Forecasting the peak and plateau of outbreak by country
