@@ -41,7 +41,7 @@ Using the technique applied and tested for China and South Korea, the model is r
 1. The turning point when the number of new cases would start to drop 
 2. The amount of time remaining before the total number of cases would stabilize due to very small number of new cases. Note that this should not be strictly interpreted as the end of outbreak or the lockdown measures for a given country as there are other factors at play.
 <p>
-<b>Disclaimer: Please treat the results of the forecast with caution and refer to the respective countries' medical agencies and the World Health Organization as the leading authority for any conclusion</b>
+<b>Disclaimer: Please treat the results of the forecast with caution and refer to the respective countries' government agencies and the World Health Organization as the leading authorities on the subject matter.</b>
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_Kingdom.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Italy.png?raw=true">
