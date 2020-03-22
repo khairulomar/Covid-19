@@ -1,0 +1,120 @@
+,Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+0,Hubei,Mainland China,2020-02-29T12:13:10,66337,2727,28993
+1,,South Korea,2020-02-29T18:13:07,3150,16,27
+2,Guangdong,Mainland China,2020-02-29T15:33:03,1349,7,983
+3,Henan,Mainland China,2020-02-29T12:43:05,1272,21,1170
+4,Zhejiang,Mainland China,2020-02-29T09:13:10,1205,1,1016
+5,,Italy,2020-02-29T18:03:05,1128,29,46
+6,Hunan,Mainland China,2020-02-29T15:33:03,1018,4,846
+7,Anhui,Mainland China,2020-02-29T05:03:13,990,6,868
+8,Jiangxi,Mainland China,2020-02-29T01:23:07,935,1,811
+9,Shandong,Mainland China,2020-02-29T15:33:03,756,6,421
+10,Diamond Princess cruise ship,Others,2020-02-29T01:43:02,705,6,10
+11,Jiangsu,Mainland China,2020-02-29T07:23:11,631,0,523
+12,,Iran,2020-02-29T14:53:04,593,43,123
+13,Chongqing,Mainland China,2020-02-29T23:13:06,576,6,438
+14,Sichuan,Mainland China,2020-02-29T12:03:07,538,3,351
+15,Heilongjiang,Mainland China,2020-02-29T12:03:07,480,13,301
+16,Beijing,Mainland China,2020-02-29T03:33:02,411,8,271
+17,Shanghai,Mainland China,2020-02-29T06:23:03,337,3,287
+18,Hebei,Mainland China,2020-02-29T15:33:03,318,6,282
+19,Fujian,Mainland China,2020-02-29T15:33:03,296,1,243
+20,Guangxi,Mainland China,2020-02-29T12:03:07,252,2,176
+21,Shaanxi,Mainland China,2020-02-29T09:03:06,245,1,207
+22,,Japan,2020-02-29T15:53:04,241,5,32
+23,Yunnan,Mainland China,2020-02-29T05:03:13,174,2,157
+24,Hainan,Mainland China,2020-02-29T23:43:02,168,5,148
+25,Guizhou,Mainland China,2020-02-27T00:43:02,146,2,112
+26,Tianjin,Mainland China,2020-02-29T12:03:07,136,3,109
+27,Shanxi,Mainland China,2020-02-29T23:13:06,133,0,114
+28,Liaoning,Mainland China,2020-02-29T15:33:03,121,1,96
+29,,Singapore,2020-02-29T14:33:03,102,0,72
+30,,France,2020-02-29T19:03:04,100,2,12
+31,Hong Kong,Hong Kong,2020-02-29T23:53:02,95,2,33
+32,Jilin,Mainland China,2020-02-29T09:13:10,93,1,75
+33,Gansu,Mainland China,2020-02-28T02:33:02,91,2,82
+34,,Germany,2020-02-29T14:43:03,79,0,16
+35,Xinjiang,Mainland China,2020-02-29T12:03:07,76,3,62
+36,Inner Mongolia,Mainland China,2020-02-29T09:03:06,75,0,49
+37,Ningxia,Mainland China,2020-02-29T05:53:02,73,0,69
+38,,Kuwait,2020-02-28T16:23:03,45,0,0
+39,,Spain,2020-02-29T19:13:08,45,0,2
+40,Unassigned Location (From Diamond Princess),US,2020-02-28T20:03:03,44,0,0
+41,,Thailand,2020-02-29T12:33:03,42,0,28
+42,,Bahrain,2020-02-29T18:03:05,41,0,0
+43,Taiwan,Taiwan,2020-02-29T07:13:05,39,1,9
+44,,Malaysia,2020-02-29T04:03:18,25,0,18
+45,,UK,2020-02-29T18:03:05,23,0,8
+46,,United Arab Emirates,2020-02-29T12:33:03,21,0,5
+47,Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
+48,,Switzerland,2020-02-29T18:03:05,18,0,0
+49,,Vietnam,2020-02-25T08:53:02,16,0,16
+50,,Norway,2020-02-29T23:13:06,15,0,0
+51,,Iraq,2020-02-29T18:03:05,13,0,0
+52,,Sweden,2020-02-29T14:43:03,12,0,0
+53,"Toronto, ON",Canada,2020-02-29T23:23:13,10,0,2
+54,Macau,Macau,2020-02-27T12:43:02,10,0,8
+55,Queensland,Australia,2020-02-29T02:03:10,9,0,1
+56,,Austria,2020-02-29T14:43:03,9,0,0
+57,British Columbia,Canada,2020-02-29T23:23:13,8,0,3
+58,Victoria,Australia,2020-02-29T02:03:10,7,0,4
+59,,Israel,2020-02-29T01:53:03,7,0,1
+60,,Croatia,2020-02-29T18:03:05,6,0,0
+61,,Netherlands,2020-02-29T18:03:05,6,0,0
+62,,Oman,2020-02-29T12:33:03,6,0,1
+63,"Seattle, WA",US,2020-02-29T22:33:03,6,1,1
+64,New South Wales,Australia,2020-02-13T17:53:03,4,0,4
+65,,Greece,2020-02-28T15:33:03,4,0,0
+66,,Lebanon,2020-02-29T01:53:03,4,0,0
+67,,Mexico,2020-02-29T21:13:17,4,0,0
+68,,Pakistan,2020-02-29T18:03:05,4,0,0
+69,South Australia,Australia,2020-02-29T02:03:10,3,0,2
+70,,Denmark,2020-02-29T18:03:05,3,0,0
+71,,Finland,2020-02-29T05:23:03,3,0,1
+72,,India,2020-02-16T07:43:02,3,0,3
+73,,Philippines,2020-02-12T07:43:02,3,1,1
+74,,Romania,2020-02-28T15:33:03,3,0,0
+75,"Santa Clara, CA",US,2020-02-29T01:33:03,3,0,1
+76,Western Australia,Australia,2020-02-29T23:13:06,2,0,0
+77,,Brazil,2020-02-29T21:03:05,2,0,0
+78,,Russia,2020-02-12T14:43:03,2,0,2
+79,"Chicago, IL",US,2020-02-09T19:03:03,2,0,2
+80,"Sacramento County, CA",US,2020-02-27T20:33:02,2,0,0
+81,"San Benito, CA",US,2020-02-03T03:53:02,2,0,0
+82,"San Diego County, CA",US,2020-02-21T05:43:02,2,0,1
+83,,Afghanistan,2020-02-24T23:33:02,1,0,0
+84,,Algeria,2020-02-25T23:43:03,1,0,0
+85,,Belarus,2020-02-28T16:23:03,1,0,0
+86,,Belgium,2020-02-17T04:23:06,1,0,1
+87,,Cambodia,2020-02-12T07:43:02,1,0,1
+88," Montreal, QC",Canada,2020-02-28T05:23:07,1,0,0
+89,"London, ON",Canada,2020-02-12T18:53:03,1,0,1
+90,,Egypt,2020-02-28T04:13:09,1,0,1
+91,,Estonia,2020-02-27T16:23:03,1,0,0
+92,,Georgia,2020-02-27T16:23:03,1,0,0
+93,,Iceland,2020-02-29T00:33:01,1,0,0
+94,,Ireland,2020-02-29T22:33:03,1,0,0
+95,,Lithuania,2020-02-28T16:23:03,1,0,0
+96,,Luxembourg,2020-02-29T21:03:05,1,0,0
+97,Tibet,Mainland China,2020-02-12T06:43:02,1,0,1
+98,,Monaco,2020-02-29T00:33:01,1,0,0
+99,,Nepal,2020-02-12T14:43:03,1,0,1
+100,,New Zealand,2020-02-28T16:23:03,1,0,0
+101,,Nigeria,2020-02-28T16:23:03,1,0,0
+102,,North Macedonia,2020-02-27T16:23:03,1,0,0
+103,,Qatar,2020-02-29T14:33:03,1,0,0
+104,,San Marino,2020-02-27T21:13:10,1,0,0
+105,,Sri Lanka,2020-02-08T03:43:03,1,0,1
+106,"Boston, MA",US,2020-02-28T21:13:12,1,0,1
+107,"Humboldt County, CA",US,2020-02-21T05:13:09,1,0,0
+108,"Los Angeles, CA",US,2020-02-01T19:53:03,1,0,0
+109,"Madison, WI",US,2020-02-05T21:53:02,1,0,0
+110,"Orange, CA",US,2020-02-01T19:53:03,1,0,0
+111,"Portland, OR",US,2020-02-29T02:23:11,1,0,0
+112,"San Antonio, TX",US,2020-02-13T18:53:02,1,0,0
+113,"Snohomish County, WA",US,2020-02-29T15:03:04,1,0,0
+114,"Tempe, AZ",US,2020-02-25T21:23:03,1,0,1
+115,From Diamond Princess,Australia,2020-02-29T02:03:10,0,0,0
+116,"Lackland, TX (From Diamond Princess)",US,2020-02-24T23:33:02,0,0,0
+117,"Omaha, NE (From Diamond Princess)",US,2020-02-24T23:33:02,0,0,0
+118,"Travis, CA (From Diamond Princess)",US,2020-02-24T23:33:02,0,0,0

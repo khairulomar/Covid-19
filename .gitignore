@@ -2,10 +2,13 @@
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
+
 ### My files ###
 
-old_files/
+.ipynb_checkpoints
 img_archive/
+old_files/
+
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
