@@ -1,5 +1,5 @@
 # Covid-19 Analysis and Forecast
-#### by Khairul Omar
+<b>by Khairul Omar</b><br>
 <a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a>
 <p>
 My analysis and forecast of the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a>. For details on Python codes used in this report, please refer to the <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook. Data on this site will be updated on a daily basis.
@@ -26,13 +26,13 @@ As China and South Korea are the only two countries that are heading towards a p
 <b>Figure 4: Comparing how the number of cases reached a plateau in China versus Korea</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/china_korea.png?raw=true">
 <p>
-The general logistic function (or <a href="https://en.wikipedia.org/wiki/Generalised_logistic_function">Richard's curve</a>) is chosen as the basis of the forecasting model due to its resemblance to the life cycle of the outbreak.
+The <b>general logistic function</b> (or <b><a href="https://en.wikipedia.org/wiki/Generalised_logistic_function">Richard's curve</a></b>) is chosen as the basis of the forecasting model due to its resemblance to the life cycle of the outbreak.
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/richards_curve.PNG?raw=true">
 <p>
-Actual data to date is fit to this curve whereby the parameters used in the equation is fine tuned using <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html">SciPy</a> package in Python via least squares method. Below are the results when the optimized model is applied to data for China and Korea to compare how it performs versus actual to date and the reasonable forecast to be expected. For the purpose of this model, it is assumed that re-infection is very unlikely and a second peak of outbreak does not occur.
+Actual data to date is fit to this curve whereby the parameters used in the equation is fine tuned using <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html"><b>SciPy</b></a> package in Python via least squares method. Below are the results when the optimized model is applied to data for China and Korea to compare how it performs versus actual to date and the reasonable forecast to be expected. For the purpose of this model, it is assumed that re-infection is very unlikely and a second peak of outbreak does not occur.
 <p>
-<b>Figure 5: Forecast results for China and South Korea</b>
+<b>Figure 5: Model fit results for China and South Korea</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_China.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_South_Korea.png?raw=true">
   
@@ -41,6 +41,17 @@ Using the technique applied and tested for China and South Korea, the model is r
 1. The turning point when the number of new cases would start to drop 
 2. The amount of time remaining before the total number of cases would stabilize due to very small number of new cases. Note that this should not be strictly interpreted as the end of outbreak or the lockdown measures for a given country as there are other factors at play.
 <p>
-<b>Disclaimer: Please treat the results of the forecast with caution and refer to the respective countries' medical agencies and the World Health Organization as the leading authority for any conclusion</b>
+Note that the forecast of some countries below may not be shown until the peak is reached as the Python package fails to reach a convergence point after thousands of iterations, mainly due to the limited available periods and a very high rate of change of growth that does not fit Richard's curve beyond a certain range of data points.
 <p>
+<b>Disclaimer: Please treat the results of the forecast with caution and refer to the respective countries' government agencies and the World Health Organization as the leading authorities on the subject matter.</b>
+<p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_Kingdom.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Italy.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Spain.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Germany.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_France.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Switzerland.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Iran.png?raw=true">  
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_States.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Malaysia.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Australia.png?raw=true">
