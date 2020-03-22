@@ -1,5 +1,5 @@
 # Covid-19 Analysis and Forecast
-<b>by Khairul Omar</b>
+<b>by Khairul Omar</b><br>
 <a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a>
 <p>
 My analysis and forecast of the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a>. For details on Python codes used in this report, please refer to the <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook. Data on this site will be updated on a daily basis.
@@ -26,7 +26,7 @@ As China and South Korea are the only two countries that are heading towards a p
 <b>Figure 4: Comparing how the number of cases reached a plateau in China versus Korea</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/china_korea.png?raw=true">
 <p>
-The general logistic function (or <a href="https://en.wikipedia.org/wiki/Generalised_logistic_function">Richard's curve</a>) is chosen as the basis of the forecasting model due to its resemblance to the life cycle of the outbreak.
+The <b>general logistic function</b> (or <b><a href="https://en.wikipedia.org/wiki/Generalised_logistic_function">Richard's curve</a><b>) is chosen as the basis of the forecasting model due to its resemblance to the life cycle of the outbreak.
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/richards_curve.PNG?raw=true">
 <p>
