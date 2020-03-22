@@ -13,7 +13,6 @@ While the total number of cases is a key indicator, it is also critical to analy
 <p>
 <b>Figure 2: Changes in growth factor of key countries since the onset of the outbreak</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/growth.png?raw=true">
-<p>
 From the figure above, we shall see that countries which still has a high growth rate is projected to continue to have large number of new cases with the potential of surpassing total cases in China. As the growth of a viral outbreak is exponential in nature, we can demonstrate how the total number of cases would continue to multiply if the latest growth rates do not start to subside.
 <p>
 <b>Figure 3: Total actual and 5-day projected number of cumulated cases for key countries</b>
