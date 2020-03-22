@@ -6,11 +6,12 @@ My analysis and forecast of the Coronavirus pandemic as it happens using daily r
 ## Analysis of actual confirmed cases to date
 While China still holds the most number of confirmed cases to date, the centre of the outbreak now concentrates in Europe and the United States while continues to record large number of new cases everyday.   
 <p>
+<u>Figure 1: Total number of cumulated cases and new daily cases for Top 20 countries</u>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/total_cases_bar.png?raw=true">
 <p>
 While the total number of cases is a key indicator, it is also critical to analyse the <b>growth factor</b> or the rate at which the total number of cases grow each day. As the growth of a viral outbreak is exponential in nature, an increase of this factor would significantly increase the total cases particularly when a critical mass is reached. A factor close to 1.0 indicates that a plateau is about to be reached.
 <p>
-Changes in growth factor of key countries since the onset of the outbreak:
+<u>Figure 2: Changes in growth factor of key countries since the onset of the outbreak</u>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/growth.png?raw=true">
 
 <p>
