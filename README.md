@@ -1,5 +1,7 @@
 # Covid-19 Analysis and Forecast
 #### by Khairul Omar
+<a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a>
+<p>
 My analysis and forecast of the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a>. For details on Python codes used in this report, please refer to the <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook. Data on this site will be updated on a daily basis.
 <P>
   
@@ -30,7 +32,7 @@ The general logistic function (or <a href="https://en.wikipedia.org/wiki/General
 <p>
 Actual data to date is fit to this curve whereby the parameters used in the equation is fine tuned using <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html">SciPy</a> package in Python via least squares method. Below are the results when the optimized model is applied to data for China and Korea to compare how it performs versus actual to date and the reasonable forecast to be expected. For the purpose of this model, it is assumed that re-infection is very unlikely and a second peak of outbreak does not occur.
 <p>
-<b>Figure 5: Forecast results for China and South Korea<b>
+<b>Figure 5: Forecast results for China and South Korea</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_China.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_South_Korea.png?raw=true">
   
