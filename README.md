@@ -1,5 +1,5 @@
 # Covid-19 Analysis and Forecast
-#### by Khairul Omar
+<b>by Khairul Omar</b>
 <a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a>
 <p>
 My analysis and forecast of the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a>. For details on Python codes used in this report, please refer to the <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook. Data on this site will be updated on a daily basis.
@@ -43,4 +43,13 @@ Using the technique applied and tested for China and South Korea, the model is r
 <p>
 <b>Disclaimer: Please treat the results of the forecast with caution and refer to the respective countries' medical agencies and the World Health Organization as the leading authority for any conclusion</b>
 <p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_Kingdom.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Italy.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Spain.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Germany.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_France.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Switzerland.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Iran.png?raw=true">  
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_States.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Malaysia.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Australia.png?raw=true">
