@@ -20,5 +20,19 @@ From the figure above, we shall see that countries which still has a high growth
   
 ## Forecasting the peak and plateau of outbreak by country
 ### Basis of forecasting model
+As China and South Korea are the only two countries that are heading towards a plateau in the outbreak, we can look on how the total number of cases evolved from the start until the number of cases stabilises. Although both countries have a fairly similar pattern as shown in the normalized plot below, the shape of the curvature and its timing differs - which required tailored model parameters for each country to be forecasted.
+<p>
+<b>Figure 4: Comparing how the number of cases reached a plateau in China versus Korea</b>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/china_korea.png?raw=true">
+<b>
+The general logistic function (or <a href="https://en.wikipedia.org/wiki/Generalised_logistic_function">Richard's curve</a>) is chosen as the basis of the forecasting model due to its resemblance to the life cycle of the outbreak.
+<p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/richards_curve.PNG?raw=true">
+<p>
+Actual data to date is fit to this curve whereby the parameters used in the equation is fine tuned using <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html">SciPy</a> package in Python via least squares method. Below are the results when the optimized model is applied to data for China and Korea to compare how it performs versus actual to date and the reasonable forecast to be expected.
+<p>
+<b>Figure 5: Forecast results for China and South Korea<b>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_China.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_South_Korea.png?raw=true">
+  
 ### Model for key countries
-### More maths behind the model
