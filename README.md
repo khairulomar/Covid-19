@@ -30,7 +30,7 @@ The <b>general logistic function</b> (or <b><a href="https://en.wikipedia.org/wi
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/richards_curve.PNG?raw=true">
 <p>
-Actual data to date is fit to this curve whereby the parameters used in the equation is fine tuned using <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html">SciPy</a> package in Python via least squares method. Below are the results when the optimized model is applied to data for China and Korea to compare how it performs versus actual to date and the reasonable forecast to be expected. For the purpose of this model, it is assumed that re-infection is very unlikely and a second peak of outbreak does not occur.
+Actual data to date is fit to this curve whereby the parameters used in the equation is fine tuned using <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html"><b>SciPy</b></a> package in Python via least squares method. Below are the results when the optimized model is applied to data for China and Korea to compare how it performs versus actual to date and the reasonable forecast to be expected. For the purpose of this model, it is assumed that re-infection is very unlikely and a second peak of outbreak does not occur.
 <p>
 <b>Figure 5: Forecast results for China and South Korea</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_China.png?raw=true">
