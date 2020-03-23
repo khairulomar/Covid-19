@@ -6,7 +6,7 @@ My analysis and forecast of the Coronavirus pandemic as it happens using daily r
 <P>
   
 ## Analysis of actual confirmed cases to date
-While China still holds the most number of confirmed cases to date, the centre of the outbreak now concentrates in Europe and the United States while continues to record large number of new cases everyday.   
+While China still holds the most number of confirmed cases to date, the centre of the outbreak now concentrates in Europe and the United States which continue to record large number of new cases everyday.   
 <p>
 <b>Figure 1: Latest number of cumulated cases and new daily cases for Top 20 countries</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/total_cases_bar.png?raw=true">
