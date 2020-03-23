@@ -39,9 +39,9 @@ Actual data to date is fit to this curve whereby the parameters used in the equa
 ## Forecast for key countries
 Using the technique applied and tested for China and South Korea, the model is rolled out to other key countries in order to identify the possible timing of two key milestones:
 1. The turning point when the number of new cases would start to drop 
-2. The amount of time remaining before the total number of cases would stabilize due to very small number of new cases. Note that this should not be strictly interpreted as the end of outbreak or the lockdown measures for a given country as there are other factors at play.
+2. The amount of time remaining before the total number of cases would stabilize due to very small number of new cases. This should not be strictly interpreted as the end of outbreak or the lockdown measures for a given country as there are other factors at play.
 <p>
-Note that the forecast of some countries below may not be shown until the peak is reached as the Python package fails to reach a convergence point after thousands of iterations, mainly due to the limited available periods and a very high rate of change of growth that does not fit Richard's curve beyond a certain range of data points.
+Note that the forecast for some countries below may not be shown to further points in time as the Python package fails to reach a convergence point after thousands of iterations, mainly due to the limited available periods and a very high rate of change of growth that does not fit Richard's curve beyond a certain range of data points.
 <p>
 <b>Disclaimer: Please treat the results of the forecast with caution and refer to the respective countries' government agencies and the World Health Organization as the leading authorities on the subject matter.</b>
 <p>
