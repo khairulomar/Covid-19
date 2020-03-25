@@ -13,8 +13,7 @@ While China still holds the most number of confirmed cases to date, the centre o
 <p>
 While the total number of cases is a key indicator, it is also critical to analyse the <b>growth factor</b> or the rate at which the total number of cases increases each day. A factor close to 1.0 indicates that a plateau is about to be reached where the number of new cases would be relatively small.
 <p>
-<b>Figure 2: Changes in growth factor of key countries for the past 28 days</b><br>
-Value in coloured boxes indicates the latest growth factor<br>:
+<b>Figure 2: Changes in growth factor of key countries for the past 28 days. Value in coloured boxes indicates the latest growth factor</b><br>:
 <b>Red</b>: doubles in 3 days or less<br> | <b>Orange</b>: doubles between 3 and 7 days<br> | <b>Grey</b>: doubles between 1 and 2 weeks<br> | <b>Green</b>: doubles in more than 2 weeks
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/growth.png?raw=true">
 From the figure above, we shall see that countries which still has a high growth rate is projected to continue to have large number of new cases with the potential of surpassing total cases in China. As the growth of a viral outbreak is exponential in nature, we can demonstrate how the total number of cases would continue to multiply if the latest growth rates do not start to subside.
