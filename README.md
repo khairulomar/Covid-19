@@ -15,7 +15,7 @@ While the total number of cases is a key indicator, it is also critical to analy
 <p>
 <b>Figure 2: Changes in growth factor of key countries since the onset of the outbreak</b>
 Value in coloured boxes indicates the latest growth factor<br>
-Red: doubles in 3 days or less<br>
+  <span style="color:blue">Red</span>: doubles in 3 days or less<br>
 Orange: doubles between 3 and 7 days<br>
 Grey: doubles between 1 and 2 weeks<br>
 Green: doubles in more than 2 weeks
