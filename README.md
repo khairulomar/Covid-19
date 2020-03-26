@@ -1,6 +1,7 @@
 # Forecasting the peak and plateau phases of Covid-19 outbreak
 <b>by Khairul Omar</b><br>
 <a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a>
+khairul@yahoo.com
 <p>
 My analysis and forecast on the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a> is presented here. For details on Python codes used in this report, please refer to the <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook. Data on this site will be updated on a daily basis.
 <P>
