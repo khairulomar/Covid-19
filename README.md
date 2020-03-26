@@ -18,7 +18,7 @@ Despite China being the initial epicentre of the crisis, the outbreak now concen
 While the total number of cases is a key indicator, it is also critical to analyse the <b>growth factor</b> or the rate at which the total number of cases increases each day. A factor close to 1.0 that remains unchanged for some days indicates that a plateau is about to be reached where the number of new cases would be relatively small.
 <p>
 <b>Figure 2: Changes in growth factor of key countries for the past 28 days.</b><br>
-Value shown is the latest growth factor and the number of days it would take for the total cases to double if the latest growth factor remains unchanged.<br>
+Values shown are the latest growth factors and the number of days it would take for the total cases to double if the latest growth factor remains unchanged.<br>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/growth.png?raw=true"><br>
 Social distancing matters because it reduces the exponential growth, shown above as how many days it’d take for cases to double. We shall see next that countries which still have a high growth rate are projected to continue to have a large number of new cases that are set to overtake China. We can also demonstrate below how the total number of cases would continue to multiply if the latest growth rates do not start to subside.
 <p>
