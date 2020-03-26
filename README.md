@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a><br>
 khairul.omar@gmail.com
 <p>
-My analysis and forecast on the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a> is presented here. <b>Data on this site will be updated on a daily basis</b>.
+My analysis and forecast on the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a> is presented here. Data on this site will be updated on a <b>daily basis</b>.
 <p>
 For details on Python codes to derive the analysis and forecast, please refer to <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook.
 <p>
