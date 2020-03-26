@@ -5,7 +5,7 @@ khairul.omar@gmail.com
 <p>
 My analysis and forecast on the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a> is presented here. Data on this site will be updated on a <b>daily basis</b>.
 <p>
-For details on Python codes to derive the analysis and forecast, please refer to <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook.
+For details on Python codes used to derive the analysis and forecast, please refer to <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook.
 <p>
 <img align="left" width="75" height="75" src="https://github.com/khairulomar/Covid-19/blob/master/img/disclaimer.png?raw=true"><b>Disclaimer: Please interpret the model results with caution and refer to the respective countries' government agencies and the World Health Organization (WHO) as the leading authorities on the subject matter and for the official forecasts.</b><p>
   
