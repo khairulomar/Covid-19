@@ -5,7 +5,7 @@ khairul.omar@gmail.com
 <p>
 My analysis and forecast on the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a> is presented here. <b>Data on this site will be updated on a daily basis</b>.
 <p>
-For details on Python codes to derive the analysis and forecast, please refer to the <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook.
+For details on Python codes to derive the analysis and forecast, please refer to <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook.
   
 ## Analysis of actual confirmed cases to date
 Despite China being the initial epicentre of the crisis, the outbreak now concentrates in Europe and the United States which continue to record large number of new cases everyday.
