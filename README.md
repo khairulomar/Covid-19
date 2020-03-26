@@ -1,12 +1,12 @@
-# Covid-19 Analysis and Forecast
+# Forecasting the peak and plateau phases of Covid-19 outbreak
 <b>by Khairul Omar</b><br>
 <a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a>
 <p>
-My analysis and forecast of the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a>. For details on Python codes used in this report, please refer to the <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook. Data on this site will be updated on a daily basis.
+My analysis and forecast on the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a> is presented here. For details on Python codes used in this report, please refer to the <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook. Data on this site will be updated on a daily basis.
 <P>
   
 ## Analysis of actual confirmed cases to date
-While China still holds the most number of confirmed cases to date, the centre of the outbreak now concentrates in Europe and the United States which continue to record large number of new cases everyday.   
+Despite China being the initial epicentre of the crisis, the outbreak now concentrates in Europe and the United States which continue to record large number of new cases everyday.
 <p>
 <b>Figure 1: Latest number of cumulated cases and new daily cases for Top 20 countries</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/total_cases_bar.png?raw=true">
@@ -15,7 +15,7 @@ While the total number of cases is a key indicator, it is also critical to analy
 <p>
 <b>Figure 2: Changes in growth factor of key countries for the past 28 days. Value shown is the latest growth factor.</b><br>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/growth.png?raw=true"><br>
-From the figure above, we shall see that countries which still has a high growth rate is projected to continue to have large number of new cases with the potential of surpassing total cases in China. As the growth of a viral outbreak is exponential in nature, we can demonstrate how the total number of cases would continue to multiply if the latest growth rates do not start to subside.
+Social distancing matters because it reduces the exponential growth, shown above as how many days it’d take for cases to double. We shall see next that countries which still have a high growth rate is projected to continue to have large number of new cases thar is set to overtake China. We can also demonstrate below on how the total number of cases would continue to multiply if the latest growth rates do not start to subside.
 <p>
 <b>Figure 3: Total actual and 5-day projected number of cumulated cases for key countries</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/total_cases.png?raw=true">
@@ -23,14 +23,14 @@ From the figure above, we shall see that countries which still has a high growth
 ## Basis of forecasting model
 As China and South Korea are the only two countries that are heading towards a plateau in the outbreak, we can look on how the total number of cases evolved from the start until the number of cases stabilises. Although both countries have a fairly similar pattern as shown in the normalized plot below, the shape of the curvature and its timing differs - which required tailored model parameters for each country to be forecasted.
 <p>
-<b>Figure 4: Comparing how the number of cases reached a plateau in China versus Korea</b>
+<b>Figure 4: Comparing how the number of cases reached a plateau in China versus South Korea</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/china_korea.png?raw=true">
 <p>
 The <b>general logistic function</b> (or <b><a href="https://en.wikipedia.org/wiki/Generalised_logistic_function">Richard's curve</a></b>) is chosen as the basis of the forecasting model due to its resemblance to the life cycle of the outbreak.
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/richards_curve.PNG?raw=true">
 <p>
-Actual data to date is fit to this curve whereby the parameters used in the equation is fine tuned using <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html"><b>SciPy</b></a> package in Python via least squares method. Below are the results when the optimized model is applied to data for China and Korea to compare how it performs versus actual to date and the reasonable forecast to be expected. For the purpose of this model, it is assumed that re-infection is very unlikely and a second peak of outbreak does not occur.
+Actual data to date is fit to this curve whereby the parameters used in the equation is fine-tuned using <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html"><b>SciPy</b></a> package in Python via least squares method. Below are the results when the optimized model is applied to data for China and South Korea to compare how it performs versus actual cases to date and the reasonable forecast to be expected. For the purpose of this model, it is assumed that re-infection is very unlikely and a second peak of outbreak does not occur.
 <p>
 <b>Figure 5: Model fit results for China and South Korea</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_China.png?raw=true">
@@ -41,7 +41,7 @@ Using the technique applied and tested for China and South Korea, the model is r
 1. The turning point when the number of new cases would start to drop 
 2. The amount of time remaining before the total number of cases would stabilize due to very small number of new cases. This should not be strictly interpreted as the end of outbreak or the lockdown measures for a given country as there are other factors at play.
 <p>
-Note that the forecast for some countries below may not be shown to further points in time as the Python package fails to reach a convergence point after thousands of iterations, mainly due to the limited available periods and a very high rate of change of growth that does not fit Richard's curve beyond a certain range of data points.
+Note that the forecast for some countries below may not be shown to extended points in time as the Python package fails to reach a convergence point after thousands of iterations, mainly due to the limited available periods and a very high rate of change of growth that does not fit Richard's curve beyond a certain range of data points.
 <p>
 <b>Disclaimer: Please treat the results of the forecast with caution and refer to the respective countries' government agencies and the World Health Organization as the leading authorities on the subject matter.</b>
 <p>
