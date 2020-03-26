@@ -15,7 +15,7 @@ Despite China being the initial epicentre of the crisis, the outbreak now concen
 <b>Figure 1: Latest number of cumulated cases and new daily cases for Top 20 countries</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/total_cases_bar.png?raw=true">
 <p>
-While the total number of cases is a key indicator, it is critical to analyse the <b>growth factor</b> or the rate at which the total number of cases increases each day. A factor close to 1.0 that remains unchanged for some days indicates that a plateau is about to be reached where the number of new cases would be relatively small.
+While the total number of cases is a key indicator, it is critical to analyse the <b>growth factor</b> or the rate at which the total number of cases multiplies each day. A factor close to 1.0 that remains unchanged for some days indicates that a plateau is about to be reached where the number of new cases would be relatively small.
 <p>
 <b>Figure 2: Changes in growth factor of key countries for the past 28 days.</b><br>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/growth.png?raw=true"><br>
