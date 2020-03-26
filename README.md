@@ -1,4 +1,4 @@
-# Forecasting the peak and plateau phases of Covid-19 outbreak
+# Forecasting the peak and plateau phases of Covid-19
 <b>by Khairul Omar</b><br>
 <a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a><br>
 khairul.omar@gmail.com
