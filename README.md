@@ -6,6 +6,8 @@ khairul.omar@gmail.com
 My analysis and forecast on the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a> is presented here. <b>Data on this site will be updated on a daily basis</b>.
 <p>
 For details on Python codes to derive the analysis and forecast, please refer to <b><a href="https://nbviewer.jupyter.org/github/khairulomar/Covid-19/blob/master/Covid19.ipynb?flush_cache=true">Covid19.ipynb</a></b> Jupyter notebook.
+<p>
+<img align="left" width="80" height="80" src="https://github.com/khairulomar/Covid-19/blob/master/img/disclaimer.png?raw=true"><b>Disclaimer</b>: Please interpret the results of the model with caution and refer to the respective countries' government agencies and the World Health Organization as the leading authorities on the subject matter as the official forecast.
   
 ## Analysis of actual confirmed cases to date
 Despite China being the initial epicentre of the crisis, the outbreak now concentrates in Europe and the United States which continue to record large number of new cases everyday.
@@ -44,8 +46,6 @@ Using the technique applied and tested for China and South Korea, the model is r
 2. The amount of time remaining before the total number of cases would stabilize due to very small number of new cases. This should not be strictly interpreted as the end of outbreak or the lockdown measures for a given country as there are other factors at play.
 <p>
 Note that the forecast for some countries below may not be shown to extended points in time as the Python package fails to reach a convergence point after thousands of iterations, mainly due to the limited available periods and a very high rate of change of growth that does not fit Richard's curve beyond a certain range of data points.
-<p>
-<b>Disclaimer: Please treat the results of the forecast with caution and refer to the respective countries' government agencies and the World Health Organization as the leading authorities on the subject matter.</b>
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_Kingdom.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Italy.png?raw=true">
