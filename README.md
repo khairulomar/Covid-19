@@ -19,7 +19,7 @@ While the total number of cases is a key indicator, it is critical to analyse th
 <p>
 <b>Figure 2: Changes in growth factor of key countries for the past 28 days.</b><br>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/growth.png?raw=true"><br>
-Social distancing matters because it reduces the exponential growth, shown above as how many days it’d take for cases to double. We shall see next that countries which still have a high growth rate are projected to continue to have a large number of new cases that are set to overtake China. We can also demonstrate below how the total number of cases would continue to multiply if the latest growth rates do not start to subside.
+Social distancing matters because it reduces the exponential growth, shown above as the number of days it’d take for cases to double. We shall see next that countries which still have a high growth rate are projected to continue to have a large number of new cases that are set to overtake China. We can also demonstrate below how the total number of cases would continue to multiply if the latest growth rates do not start to subside.
 <p>
 <b>Figure 3: Total actual and 5-day projected number of cumulated cases for key countries</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/total_cases.png?raw=true">
