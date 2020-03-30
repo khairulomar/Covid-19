@@ -1,0 +1,23 @@
+country,state,updated,confirmed,deaths,recovered
+Hubei,Mainland China,31/12/2019,27,0,0
+Hubei,Mainland China,01/01/2020,27,0,0
+Hubei,Mainland China,02/01/2020,27,0,0
+Hubei,Mainland China,03/01/2020,41,0,0
+Hubei,Mainland China,04/01/2020,41,0,0
+Hubei,Mainland China,05/01/2020,41,0,0
+Hubei,Mainland China,06/01/2020,41,0,0
+Hubei,Mainland China,07/01/2020,41,0,0
+Hubei,Mainland China,08/01/2020,41,0,0
+Hubei,Mainland China,09/01/2020,41,0,0
+Hubei,Mainland China,10/01/2020,44,1,2
+Hubei,Mainland China,11/01/2020,44,1,2
+Hubei,Mainland China,12/01/2020,44,1,2
+Hubei,Mainland China,13/01/2020,44,1,2
+Hubei,Mainland China,14/01/2020,44,1,2
+Hubei,Mainland China,15/01/2020,44,1,2
+Hubei,Mainland China,16/01/2020,45,2,15
+Hubei,Mainland China,17/01/2020,62,2,19
+Hubei,Mainland China,18/01/2020,121,3,24
+Hubei,Mainland China,19/01/2020,198,3,25
+Hubei,Mainland China,20/01/2020,291,6,25
+Hubei,Mainland China,21/01/2020,440,9,25
