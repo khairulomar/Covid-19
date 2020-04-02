@@ -1,7 +1,7 @@
 # The impact of Covid-19 lockdown by key countries
 <b>by Khairul Omar</b><br>
 <a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a><br>
-khairul.omar@gmail.com
+khairul.omar@gmail.com<br>
 updated 2 Apr 2020
 
 ### Benchmarking against China's success story
