@@ -8,6 +8,10 @@ Based on the lessons learned from China, it would be premature for other countri
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_China.png?raw=true">
   
 ### South Korea: containment without lockdown
+South Korea managed to control its outbreak through containment and contract tracing without the need for lockdown measures. While this analysis focuses on the impact on movement restriction, it would be beneficial to study how the outbreak phases panned out in South Korea and what other countries can learn from it.
+<p>
+Also note that unlike China where new cases tend to hover around a single or two-digit, South Korea to date stabilizes around 100-case mark which it will continue to manage without exploding to a new peak. This may well be the outcome for other countries, which further suggests the importance of continous efforts to contain the spread and not to let our guards down when the worse seems to be behind us.
+<p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_South_Korea.png?raw=true">
 
 ### Countries currently under movement restrictions
