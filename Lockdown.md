@@ -5,7 +5,7 @@ khairul.omar@gmail.com<br>
 updated 3 Apr 2020
 
 ### Benchmarking against China's success story
-China is the only major country that has managed to bring down the number of new cases to near-zero level based on official figures. This was achieved by a strict implementation of lockdown that went beyond the level practiced in Europe and elsewhere. Lockdown was only eased 60 days after it was first imposed, at the time when the number of new cases are practically zero. In fact, near-zero level (both in terms of new cases and day-on-day growth) was achieved around 2 weeks prior to the easing of the lockdown, but the strict measures remained intact.
+China is the only major country that has managed to bring down the number of new cases to very low levels based on official figures. This was achieved by a strict implementation of lockdown that went beyond the level practiced in Europe and elsewhere. Lockdown was only eased 60 days after it was first imposed, at the time when the number of new cases were practically zero. In fact, near-zero level (both in terms of new cases and day-on-day growth) was achieved around 2 weeks prior to the easing of the lockdown, but the strict measures remained intact.
 <p>
 Based on the lessons learned from China, it would be premature for other countries to lift movement restrictions currently in place until the benchmark seen in China has been reached in order to avoid future outbreaks. While the strictest form of lockdown has been lifted in China, many other measures are still in place there until the government is confident that the outbreak is truly behind them.
 <p>
