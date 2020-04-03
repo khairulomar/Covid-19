@@ -62,5 +62,5 @@ Note that the forecast for some countries below may not be shown to extended poi
 
 ## The impact of lockdown measures
 
-<img align="left" width="50%" height="50%" src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_Italy.png?raw=true">For an analysis on how lockdown measures is impacting the number of new cases in key countries, refer to separate page at
-https://github.com/khairulomar/Covid-19/blob/master/Lockdown.md
+<img align="left" width="50%" height="50%" src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_Italy.png?raw=true">For an analysis on how lockdown measures are impacting the number of new cases in key countries, refer to separate page at<p>
+<a href="https://github.com/khairulomar/Covid-19/blob/master/Lockdown.md">github.com/khairulomar/Covid-19/blob/master/Lockdown.md</a>
