@@ -60,6 +60,6 @@ Note that the forecast for some countries below may not be shown to extended poi
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Malaysia.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Australia.png?raw=true">
 
-## The impact of lockdown measures
+## Are lockdown measures driving the number of new cases down?
 
 <img align="left" width="50%" height="50%" src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_Italy.png?raw=true">For an analysis on the impact of the two-month lockdown in China and how movement restrictions measures are having an impact on the number of new cases in selected countries, <a href="https://github.com/khairulomar/Covid-19/blob/master/Lockdown.md">refer to my separate report (<b>Lockdown.md</b>).</a>
