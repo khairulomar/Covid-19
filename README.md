@@ -23,7 +23,12 @@ Social distancing matters because it reduces the exponential growth, shown above
 <p>
 <b>Figure 3: Total actual and 5-day projected number of cumulated cases for key countries</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/total_cases.png?raw=true">
-  
+
+## The impact of lockdown measures
+
+<img align="left" width="300" height="300" src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_Italy.png?raw=true">For an analysis on how lockdown measures is impacting the number of new cases in key countries, refer to separate page:
+https://github.com/khairulomar/Covid-19/blob/master/Lockdown.md
+
 ## Basis of forecasting model
 As China and South Korea are the only two countries that are heading towards a plateau in the outbreak, we can look on how the total number of cases evolved from the start until the number of cases stabilises. Although both countries have a fairly similar pattern as shown in the normalized plot below, the shape of the curvature and its timing differs - which required tailored model parameters for each country to be forecasted.
 <p>
