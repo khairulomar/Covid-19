@@ -2,7 +2,7 @@
 <b>by Khairul Omar</b><br>
 <a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a><br>
 khairul.omar@gmail.com<br>
-updated 2 Apr 2020
+updated 3 Apr 2020
 
 ### Benchmarking against China's success story
 China is the only major country that has managed to bring down the number of new cases to near-zero level based on official figures. This was achieved by a strict implementation of lockdown that went beyond the level practiced in Europe and elsewhere. Lockdown was only eased 60 days after it was first imposed, at the time when the number of new cases are practically zero. In fact, near-zero level (both in terms of new cases and day-on-day growth) was achieved around 2 weeks prior to the easing of the lockdown, but the strict measures remained intact.
