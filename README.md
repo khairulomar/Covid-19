@@ -60,7 +60,7 @@ Note that the forecast for some countries below may not be shown to extended poi
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Malaysia.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Australia.png?raw=true">
 
-## Are lockdown measures driving the number of new cases down?
+## Are lockdowns driving the number of cases down?
 
 #### Benchmarking against China's success story
 China is the only major country that has managed to bring down the number of new cases to very low levels based on official figures. This was achieved by a strict implementation of lockdown that went beyond the level practiced in Europe and elsewhere. Lockdown was only eased 60 days after it was first imposed, at the time when the number of new cases were practically zero. In fact, near-zero level (both in terms of new cases and day-on-day growth) was achieved around 2 weeks prior to the easing of the lockdown, but the strict measures remained intact.
@@ -76,7 +76,7 @@ Also note that unlike China where new cases tend to hover around a single or two
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_South_Korea.png?raw=true">
 
-#### Countries currently under movement restrictions
+#### Selected countries currently under movement restrictions
 While the United States is the worst-affected country to date, there is still limited timeframe available to analyse its lockdown impact as the country continues to exponentially grow in new cases. Therefore, we shall not be looking at the United States for comparison and focused our benchmark towards 4 key European countries with nationwide restrictions.
 <p>
 Italy, once the worst-hit country behind China during its peak, have started to show positive signs from the lockdown around 3 to 4 weeks after it was first implemented in the north. With the latest day-on-day exponential growth at around 5% and total case of over 115,000 as of Apr 2, the number will still continue to rise in large numbers, but it does seem to be moving in the right direction towards a gradual recovery.  
@@ -95,6 +95,3 @@ United Kingdom is relatively behind in imposing a strict movement restriction. A
 <p>
 Malaysia is currently in the second week of Movement Control Order (MCO). Although it appears that the number of new cases is heading towards a stabilizing trend instead of going upwards, more time is needed to assess if the restrictions imposed by the government are having a significant impact on the number of new cases. A continuous downward trend and a flattening in new cases and needs to be sustained for a substantial amount of time before the movement restrictions can be loosened or lifted.
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_Malaysia.png?raw=true">
-
-
-<img align="left" width="50%" height="50%" src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_Italy.png?raw=true">For an analysis on the impact of the two-month lockdown in China and how movement restrictions measures are having an impact on the number of new cases in selected countries, <a href="https://github.com/khairulomar/Covid-19/blob/master/Lockdown.md">refer to my separate report (<b>Lockdown.md</b>).</a>
