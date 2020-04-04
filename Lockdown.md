@@ -35,5 +35,5 @@ United Kingdom is relatively behind in imposing a strict movement restriction. A
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_United_Kingdom.png?raw=true">
 <p>
-Our final case study is on Malaysia, which is also in the second week of movement restrictions. Although it appears that the number of new cases is heading towards a stabilizing trend instead of going upwards, more time is needed to assess if the restrictions imposed by the government are having a significant impact on the number of new cases. A continuous downward trend in new cases needs to be sustained for significant amount of time before the restrictions are lifted or loosened.
+Malaysia is currently in the second week of Movement Control Order (MCO). Although it appears that the number of new cases is heading towards a stabilizing trend instead of going upwards, more time is needed to assess if the restrictions imposed by the government are having a significant impact on the number of new cases. A continuous downward trend and a flattening in new cases and needs to be sustained for a substantial amount of time before the movement restrictions can be loosened or lifted.
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_Malaysia.png?raw=true">
