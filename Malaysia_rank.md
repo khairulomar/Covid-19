@@ -21,7 +21,7 @@ Looking at the impact on the growth factor alone does not paint the full picture
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_2.png">  
 <p>
-Austria and Switzerland may well have had their worst behind them and are already planning on easing some of the toughest restrictions in the coming weeks. Italy and Spain are also showing signs that recovery is under way after three weeks of lockdown, but it is not entirely clear if the same could be concluded for the United Kingdom and Canada.
+Austria and Switzerland may well have had their worst behind them and are already planning on easing some of the toughest restrictions in the coming weeks. Italy and Spain are also showing signs that recovery is under way after three weeks of lockdown, but it is not entirely clear if the same could be concluded for the United Kingdom and Canada just yet.
 <p>
 The trend in the number of new cases in Malaysia is still inconclusive for now as it appears that there is no clear sign yet that the level is going down or worsening, as it now hovers around 165 new cases mark for the past two weeks. It is hoped that the ongoing measures will bring the number of new cases further down before plans for easing the restrictions could be considered.
 <p>
