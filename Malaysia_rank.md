@@ -1,7 +1,8 @@
 # Benchmarking government response on Covid-19 in Malaysia vs. key countries
 updated 9 Apr 2020
 <p>
-Text
+As Malaysia heads into its third week of Movement Restriction Order (MCO), we seek to study how this is impacting on the number of confirmed cases and comparing the outcome with other countries. 
+<p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/stringency_msia_rank_asiapac.png"> <img src="https://github.com/khairulomar/Covid-19/blob/master/img/stringency_msia_rank_west.png">
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/stringency_msia_timeline_asiapac.png">
