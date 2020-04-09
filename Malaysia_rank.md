@@ -21,4 +21,5 @@ Looking at the impact on the growth factor alone does not paint the full picture
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_3.png">
 <p>
+Another angle in looking at the impact of lockdown is how the number of new cases have grown and decreased relative to situation at the start of lockdown, which is useful in comparing countries where the number of cases are several order of magnitudes different.
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_2.png">
