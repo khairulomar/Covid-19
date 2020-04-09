@@ -13,8 +13,14 @@ As new government measures are introduced, the stringency index is updated to re
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/stringency_msia_timeline_west.png">
 <p>
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_1.png">
+Using data from <a href="https://coronavirus.jhu.edu/">John Hopkins University Coronavirus Resource Centre</a>, we shall explore how the number of confirmed cases has changed since the lockdown by comparing the situation in Malaysia with other key countries in the Asia-Pacific region and in the West.
+<p>
+As most countries in the analysis have completed nearly three weeks of lockdown, we are currently in a good position to conclude that most if not all countries are a seeing a drop in the exponential growth of the total confirmed cases thanks to social distancing which reduces the basic reproductive number (R0), namely the number of people that each positive person can infect. Looking at the situation in Malaysia, if the growth rate at the start of the lockdown remained unchanged, it would lead to the doubling of the number of total cases in 4 days compared to around 2 weeks after three weeks into the lockdown.
+<p>
+Despite the reduction in growth, coz the start at high case, they grow high number
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_2.png">
+<p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_1.png">
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_3.png">
