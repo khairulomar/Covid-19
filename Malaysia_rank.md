@@ -1,4 +1,4 @@
-# Benchmarking the impact of lockdown and government response in Malaysia vs. key countries
+# Benchmarking government response on Covid-19 in Malaysia vs. key countries
 updated 9 Apr 2020
 
 ### Subheader
