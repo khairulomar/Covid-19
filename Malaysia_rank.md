@@ -15,12 +15,15 @@ As new government measures are introduced, the stringency index is updated to re
 <p>
 Using data from <a href="https://coronavirus.jhu.edu/">John Hopkins University Coronavirus Resource Centre</a>, we shall explore how the number of confirmed cases has changed since the lockdown by comparing the situation in Malaysia with other key countries in the Asia-Pacific region and in the West. As most countries in the analysis have completed nearly three weeks of lockdown, we are currently in a good position to conclude that most if not all countries are a seeing a drop in the exponential growth of the total confirmed cases thanks to social distancing which reduces the basic reproductive number (R0), namely the number of people that each positive person can infect. Looking at the situation in Malaysia, if the growth rate at the start of the lockdown remained unchanged, it would lead to the doubling of the number of total cases in 4 days compared to around 2 weeks after three weeks into the lockdown.
 <p>
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_3.png">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_1.png">
 <p>
-Looking at the impact on the growth factor alone does not paint the full picture into the severity of the crisis. Despite all the signs that total cases are growing at a slower rate, countries that started off with a very high number of cases continue to see a large numbers of daily new cases due to the exponential nature of the pandemic which would take more time to taper off into much lower levels. The plot below shows how the number of new cases have grown and decreased relative to situation at the start of lockdown, which is useful in comparing countries where the number of cases are several order of magnitudes different.
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_1.png">  
+Looking at the impact on the growth factor alone does not paint the full picture into the severity of the crisis. Despite all the signs that total cases are growing at a slower rate, countries that started off with a very high number of cases continue to see a large numbers of daily new cases due to the exponential nature of the pandemic which would take more time to taper off into much lower levels. 
+<p>
+The chart below shows how the number of new cases have changed in relative to situation at the start of lockdown (set at an index of 100) which is useful in comparing countries where the number of cases are several orders of magnitude different. Note that only countries that have gone through at least a week of lockdown are shown the analysis below.
+<p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_2.png">  
 <p>
 Austria and Switzerland may well have had their worst behind them, while Italy and Spain are also showing signs that recovery is under way. On the other hand, the trend in the number of new cases in Malaysia is still unclear as it appears that there is no clear sign yet that the level is going down or worsening, as it now hovers around 165 new cases mark for the past two weeks.
 <p>
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_2.png">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_3.png">
 
