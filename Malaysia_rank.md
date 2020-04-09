@@ -17,13 +17,13 @@ Using data from <a href="https://coronavirus.jhu.edu/">John Hopkins University C
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_1.png">
 <p>
-Looking at the impact on the growth factor alone does not paint the full picture into the severity of the crisis. Despite all the signs that total cases are growing at a slower rate, countries that started off with a very high number of cases continue to see a large numbers of daily new cases due to the exponential nature of the pandemic which would take more time to taper off into much lower levels. 
-<p>
-The chart below shows how the number of new cases have changed in relative to situation at the start of lockdown (set at an index of 100) which is useful in comparing countries where the number of cases are several orders of magnitude different. Note that only countries that have gone through at least a week of lockdown are shown the analysis below.
+Looking at the impact on the growth factor alone does not paint the full picture into the severity of the crisis. Despite all the signs that total cases are growing at a slower rate, countries that started off with a very high number of cases continue to see a large numbers of daily new cases due to the exponential nature of the pandemic which would take more time to taper off into much lower levels. The chart below shows how the number of new cases have changed in relative to situation at the start of lockdown (set at an index of 100) which is useful in comparing countries where the number of cases are several orders of magnitude different. Note that only countries that have gone through at least a week of lockdown are shown the analysis below.
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_2.png">  
 <p>
-Austria and Switzerland may well have had their worst behind them, while Italy and Spain are also showing signs that recovery is under way. On the other hand, the trend in the number of new cases in Malaysia is still unclear as it appears that there is no clear sign yet that the level is going down or worsening, as it now hovers around 165 new cases mark for the past two weeks.
+Austria and Switzerland may well have had their worst behind them and are already planning on easing some of the toughest restrictions in the coming weeks. Italy and Spain are also showing signs that recovery is under way after three weeks of lockdown, but it is not entirely clear if the same could be concluded for the United Kingdom and Canada.
+<p>
+The trend in the number of new cases in Malaysia is still inconclusive as it appears that there is no clear sign yet that the level is going down or worsening, as it now hovers around 165 new cases mark for the past two weeks. It is hoped that the ongoing measures will bring the number of new cases down before plans for easing the restrictions could be rolled out.
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_3.png">
 
