@@ -17,6 +17,8 @@ Using data from <a href="https://coronavirus.jhu.edu/">John Hopkins University C
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_1.png">
 <p>
+Looking at the impact on the growth factor alone does not paint the full picture into the severity of the crisis. Despite all the signs that total cases are growing at a slower rate, countries that started off with a very high number of cases continue to see a large numbers of daily new cases due to the exponential nature of the pandemic which would take more time to taper off into much lower levels. Austria and Switzerland may well have had their worst behind them, while Italy and Spain are also showing signs that recovery is under way. On the other hand, the trend in the number of new cases in Malaysia is still unclear as it appears that there is no clear sign yet that the level is going down or worsening, as it now hovers around 165 new cases mark for the past two weeks.
+<p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_3.png">
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_msia_post_lockdown_2.png">
