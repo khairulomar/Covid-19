@@ -7,7 +7,7 @@ Below is the latest scoring for each response category for Malaysia and other co
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/stringency_msia_rank_asiapac.png"> <img src="https://github.com/khairulomar/Covid-19/blob/master/img/stringency_msia_rank_west.png">
 <p>
-As new government measures are introduced, the stringency index is updated to reflect the latest ranking on how each country handles Covid-19 pandemic. The two charts below, each for comparing Malaysia with Asia-Pacific countries and the West, are useful in analysing how different governments react to the crisis, particularly in identifying if there has been lost opportunities that could have been implemented earlier and how countries can learn from each other.
+As new government measures are introduced, the stringency index is updated to reflect the latest ranking on how each country handles the crisis. The two charts below, each for comparing Malaysia with Asia-Pacific countries and the West, are useful in analysing how different governments reacted, particularly in identifying if there have been lost opportunities that could have been implemented earlier and how countries can learn from each other ahead of time.
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/stringency_msia_timeline_asiapac.png">
 <p>
