@@ -11,6 +11,6 @@ Based on this method, we may have reasons to believe that the number of total ca
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/death_vs_confirmed_msia.png">
 
 ### Are countries testing enough?
-We can also benchmark if Malaysia is testing enough by looking at how other countries are performing it. Similarly as in the analysis above, we shall use the number of death to gauge the spread of the virus in the population. 
+We can also benchmark if Malaysia is testing enough by looking at how other countries are performing. Similarly as in the analysis above, we shall use the number of death to gauge the spread of the virus in the population. 
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/test_vs_deaths_msia.png">
