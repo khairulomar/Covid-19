@@ -3,7 +3,7 @@
 ### Working assumptions
 Since different countries have different resources and policies in conducting Covid-19 tests, it may be hard to gauge the true extent of the spread of the outbreak in each country. However, deaths caused by the virus are more likely to be reported correctly as seriously ill individuals would seek medical attention, in addition to more rigorous reporting procedures in recording such cases. This is in contrast to official positive cases that are more likely to be under-reported, which generally excludes cases such as positive individuals who are asymptomatic and those who recovered at home without ever being tested.
 
-### Are reported confirmed cases under-estimated?
+### Are reported cases under-estimated?
 We shall now compare the number of confirmed cases versus the number of deaths and calculate the regression line that estimates the relationship between the two. In the chart below, the area shaded in orange that lies below the regression line can be interpreted as countries where the official number of confirmed cases are more likely to be under-reported.
 <p>
 Based on this method, we may have reasons to believe that the number of total cases reported for Malaysia so far can be used to represent the actual situation on the ground, especially when comparing with other countries with almost similar number of deaths such as Hungary and Ukraine. However, when comparing with other comparable countries such as Norway and Australia, the number of total cases in Malaysia is on the lower side.
