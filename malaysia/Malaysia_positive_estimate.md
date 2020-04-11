@@ -6,7 +6,7 @@ Since different countries have different resources and policies in conducting Co
 ### Are reported confirmed cases under-estimated?
 We shall now compare the number of confirmed positive cases versus the number of deaths and calculate the regression line that estimates the relationship between the two. In the chart below, the area shaded in orange that lies below the regression line can be interpreted as countries where the official number of confirmed cases are more likely to be under-reported, particularly those that are well underneath the border between the shaded and non-shaded areas.
 <p>
-Based on this method, we may have reasons to believe that the number of total cases reported for Malaysia so far can be used to represent the actual situation on the ground, especially when comparing with other countries with almost similar number of deaths such as Hungary and Ukraine, albeit below other comparable countries such as Norway and Australia.
+Based on this method, we may have reasons to believe that the number of total cases reported for Malaysia so far can be used to represent the actual situation on the ground, especially when comparing with other countries with almost similar number of deaths such as Hungary and Ukraine. Note that when comparing with other comparable countries such as Norway and Australia, the number of total cases in Malaysia is on the lower side.
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/death_vs_confirmed_msia.png">
 
