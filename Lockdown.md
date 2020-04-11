@@ -2,7 +2,6 @@
 <b>by Khairul Omar</b><br>
 <a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a><br>
 khairul.omar@gmail.com<br>
-updated 3 Apr 2020
 
 ### Benchmarking against China's success story
 China is the only major country that has managed to bring down the number of new cases to very low levels based on official figures. This was achieved by a strict implementation of lockdown that went beyond the level practiced in Europe and elsewhere. Lockdown was only eased 60 days after it was first imposed, at the time when the number of new cases were practically zero. In fact, near-zero level (both in terms of new cases and day-on-day growth) was achieved around 2 weeks prior to the easing of the lockdown, but the strict measures remained intact.
@@ -36,4 +35,5 @@ United Kingdom is relatively behind in imposing a strict movement restriction. A
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_United_Kingdom.png?raw=true">
 <p>
 Malaysia is currently in the second week of Movement Control Order (MCO). Although it appears that the number of new cases is heading towards a stabilizing trend instead of going upwards, more time is needed to assess if the restrictions imposed by the government are having a significant impact on the number of new cases. A continuous downward trend and a flattening in new cases and needs to be sustained for a substantial amount of time before the movement restrictions can be loosened or lifted.
+<p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/lockdown_Malaysia.png?raw=true">
