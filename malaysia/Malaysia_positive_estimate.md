@@ -1,6 +1,6 @@
 # Evaluating the reliability of the number of confirmed Covid-19 cases reported by countries
 
-### Assumptions
+### Working assumptions
 Since different countries have different resources and policies in conducting Covid-19 tests, it may be hard to gauge the true extent of the spread of the outbreak in each country. However, deaths caused by the virus are more likely to be reported correctly as sick individuals seek medical attention, in addition to more rigorous reporting procedure in recording such cases. This is in contrast to positive cases that are more likely to be under-reported which generally excludes cases such as positive individuals who are asymptomatic and those who recovered at home without ever being tested.
 
 ### Are reported confirmed cases under-estimated?
