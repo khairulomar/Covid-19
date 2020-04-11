@@ -11,6 +11,6 @@ Based on this method, we may have reasons to believe that the number of total ca
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/death_vs_confirmed_msia.png">
 
 ### Are countries testing enough?
-We can also benchmark if Malaysia is testing enough by looking at how other countries are performing. Similarly as in the analysis above, we shall use the number of death to gauge the spread of the virus in the population. 
+We can also benchmark if Malaysia is testing enough by looking at how other countries are performing. Similarly as in the analysis above, we shall use the number of death to gauge the spread of the virus in the population. Using a regression line to find a relationship between the two, we can interpret that countries that lie below the line in the shaded area are more likely to be under-testing its population. South Korea and Germany that have been praised by the WHO for their testing policies, are well above the regression line. Malaysia on the other hand, is on the lower end of this benchmark.
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/test_vs_deaths_msia.png">
