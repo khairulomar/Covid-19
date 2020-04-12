@@ -83,6 +83,7 @@
 2020-04-08,Australia,319368.0
 2020-04-09,Australia,330134.0
 2020-04-10,Australia,338346.0
+2020-04-11,Australia,338346.0
 2020-01-18,Austria,
 2020-01-19,Austria,
 2020-01-20,Austria,
@@ -167,6 +168,7 @@
 2020-04-08,Austria,120755.0
 2020-04-09,Austria,126287.0
 2020-04-10,Austria,134743.0
+2020-04-11,Austria,140975.0
 2020-01-18,Bahrain,
 2020-01-19,Bahrain,
 2020-01-20,Bahrain,
@@ -250,7 +252,8 @@
 2020-04-07,Bahrain,50127.0
 2020-04-08,Bahrain,52804.0
 2020-04-09,Bahrain,55096.0
-2020-04-10,Bahrain,57307.0
+2020-04-10,Bahrain,57681.0
+2020-04-11,Bahrain,60425.0
 2020-01-18,Belgium,
 2020-01-19,Belgium,
 2020-01-20,Belgium,
@@ -299,42 +302,43 @@
 2020-03-03,Belgium,813.0
 2020-03-04,Belgium,1445.0
 2020-03-05,Belgium,2146.0
-2020-03-06,Belgium,3160.0
-2020-03-07,Belgium,3567.0
+2020-03-06,Belgium,3159.0
+2020-03-07,Belgium,3565.0
 2020-03-08,Belgium,3978.0
-2020-03-09,Belgium,4528.0
-2020-03-10,Belgium,5270.0
-2020-03-11,Belgium,6285.0
-2020-03-12,Belgium,7694.0
-2020-03-13,Belgium,10093.0
-2020-03-14,Belgium,12096.0
-2020-03-15,Belgium,13245.0
-2020-03-16,Belgium,14897.0
-2020-03-17,Belgium,16815.0
-2020-03-18,Belgium,19214.0
-2020-03-19,Belgium,22142.0
-2020-03-20,Belgium,24726.0
-2020-03-21,Belgium,26700.0
-2020-03-22,Belgium,27871.0
-2020-03-23,Belgium,30516.0
-2020-03-24,Belgium,33811.0
-2020-03-25,Belgium,37437.0
-2020-03-26,Belgium,41014.0
-2020-03-27,Belgium,45249.0
-2020-03-28,Belgium,48569.0
-2020-03-29,Belgium,50616.0
-2020-03-30,Belgium,53945.0
-2020-03-31,Belgium,59386.0
-2020-04-01,Belgium,64235.0
-2020-04-02,Belgium,69086.0
-2020-04-03,Belgium,74268.0
-2020-04-04,Belgium,78533.0
-2020-04-05,Belgium,81086.0
-2020-04-06,Belgium,85373.0
-2020-04-07,Belgium,90994.0
-2020-04-08,Belgium,96512.0
-2020-04-09,Belgium,96636.0
-2020-04-10,Belgium,96636.0
+2020-03-09,Belgium,4529.0
+2020-03-10,Belgium,5269.0
+2020-03-11,Belgium,6283.0
+2020-03-12,Belgium,7699.0
+2020-03-13,Belgium,10101.0
+2020-03-14,Belgium,12079.0
+2020-03-15,Belgium,13240.0
+2020-03-16,Belgium,14885.0
+2020-03-17,Belgium,16808.0
+2020-03-18,Belgium,19204.0
+2020-03-19,Belgium,22118.0
+2020-03-20,Belgium,24710.0
+2020-03-21,Belgium,26679.0
+2020-03-22,Belgium,27856.0
+2020-03-23,Belgium,30502.0
+2020-03-24,Belgium,33809.0
+2020-03-25,Belgium,37439.0
+2020-03-26,Belgium,41003.0
+2020-03-27,Belgium,45238.0
+2020-03-28,Belgium,48568.0
+2020-03-29,Belgium,50590.0
+2020-03-30,Belgium,53925.0
+2020-03-31,Belgium,59381.0
+2020-04-01,Belgium,64260.0
+2020-04-02,Belgium,69120.0
+2020-04-03,Belgium,74370.0
+2020-04-04,Belgium,78698.0
+2020-04-05,Belgium,81274.0
+2020-04-06,Belgium,85624.0
+2020-04-07,Belgium,91275.0
+2020-04-08,Belgium,97203.0
+2020-04-09,Belgium,102041.0
+2020-04-10,Belgium,102041.0
+2020-04-11,Belgium,102041.0
 2020-01-18,Canada,
 2020-01-19,Canada,
 2020-01-20,Canada,
@@ -418,7 +422,8 @@
 2020-04-07,Canada,346507.0
 2020-04-08,Canada,359269.0
 2020-04-09,Canada,373581.0
-2020-04-10,Canada,375302.0
+2020-04-10,Canada,383322.0
+2020-04-11,Canada,401552.0
 2020-01-18,Costa Rica,
 2020-01-19,Costa Rica,
 2020-01-20,Costa Rica,
@@ -502,7 +507,8 @@
 2020-04-07,Costa Rica,5453.0
 2020-04-08,Costa Rica,5963.0
 2020-04-09,Costa Rica,6226.0
-2020-04-10,Costa Rica,6226.0
+2020-04-10,Costa Rica,6380.0
+2020-04-11,Costa Rica,6380.0
 2020-01-18,Czech Republic,
 2020-01-19,Czech Republic,
 2020-01-20,Czech Republic,
@@ -586,7 +592,8 @@
 2020-04-07,Czech Republic,98681.0
 2020-04-08,Czech Republic,106845.0
 2020-04-09,Czech Republic,114854.0
-2020-04-10,Czech Republic,114854.0
+2020-04-10,Czech Republic,120285.0
+2020-04-11,Czech Republic,120285.0
 2020-01-18,Denmark,
 2020-01-19,Denmark,
 2020-01-20,Denmark,
@@ -671,6 +678,7 @@
 2020-04-08,Denmark,57535.0
 2020-04-09,Denmark,62210.0
 2020-04-10,Denmark,64731.0
+2020-04-11,Denmark,67771.0
 2020-01-18,Ecuador,
 2020-01-19,Ecuador,
 2020-01-20,Ecuador,
@@ -755,6 +763,7 @@
 2020-04-08,Ecuador,15526.0
 2020-04-09,Ecuador,19102.0
 2020-04-10,Ecuador,21568.0
+2020-04-11,Ecuador,22649.0
 2020-01-18,Estonia,
 2020-01-19,Estonia,
 2020-01-20,Estonia,
@@ -837,8 +846,9 @@
 2020-04-06,Estonia,23532.0
 2020-04-07,Estonia,24805.0
 2020-04-08,Estonia,26412.0
-2020-04-09,Estonia,27883.0
-2020-04-10,Estonia,27883.0
+2020-04-09,Estonia,27882.0
+2020-04-10,Estonia,29456.0
+2020-04-11,Estonia,29456.0
 2020-01-18,Finland,
 2020-01-19,Finland,
 2020-01-20,Finland,
@@ -921,8 +931,9 @@
 2020-04-06,Finland,35487.0
 2020-04-07,Finland,37564.0
 2020-04-08,Finland,39877.0
-2020-04-09,Finland,41170.0
-2020-04-10,Finland,41170.0
+2020-04-09,Finland,42039.0
+2020-04-10,Finland,44354.0
+2020-04-11,Finland,44354.0
 2020-01-18,France,
 2020-01-19,France,
 2020-01-20,France,
@@ -1003,10 +1014,11 @@
 2020-04-04,France,224254.0
 2020-04-05,France,224254.0
 2020-04-06,France,224254.0
-2020-04-07,France,224254.0
-2020-04-08,France,224254.0
-2020-04-09,France,224254.0
-2020-04-10,France,224254.0
+2020-04-07,France,333807.0
+2020-04-08,France,333807.0
+2020-04-09,France,333807.0
+2020-04-10,France,333807.0
+2020-04-11,France,333807.0
 2020-01-18,Germany,
 2020-01-19,Germany,
 2020-01-20,Germany,
@@ -1091,6 +1103,7 @@
 2020-04-08,Germany,1317887.0
 2020-04-09,Germany,1317887.0
 2020-04-10,Germany,1317887.0
+2020-04-11,Germany,1317887.0
 2020-01-18,Greece,
 2020-01-19,Greece,
 2020-01-20,Greece,
@@ -1160,13 +1173,13 @@
 2020-03-24,Greece,9071.0
 2020-03-25,Greece,10495.0
 2020-03-26,Greece,10495.0
-2020-03-27,Greece,10495.0
-2020-03-28,Greece,10495.0
+2020-03-27,Greece,13477.0
+2020-03-28,Greece,14363.0
 2020-03-29,Greece,15151.0
-2020-03-30,Greece,15151.0
-2020-03-31,Greece,15151.0
-2020-04-01,Greece,15151.0
-2020-04-02,Greece,15151.0
+2020-03-30,Greece,15961.0
+2020-03-31,Greece,16732.0
+2020-04-01,Greece,17350.0
+2020-04-02,Greece,18844.0
 2020-04-03,Greece,22437.0
 2020-04-04,Greece,23333.0
 2020-04-05,Greece,25453.0
@@ -1174,7 +1187,8 @@
 2020-04-07,Greece,28584.0
 2020-04-08,Greece,32528.0
 2020-04-09,Greece,33634.0
-2020-04-10,Greece,33634.0
+2020-04-10,Greece,35432.0
+2020-04-11,Greece,35432.0
 2020-01-18,Iceland,
 2020-01-19,Iceland,
 2020-01-20,Iceland,
@@ -1259,6 +1273,7 @@
 2020-04-08,Iceland,32623.0
 2020-04-09,Iceland,32623.0
 2020-04-10,Iceland,34125.0
+2020-04-11,Iceland,34635.0
 2020-01-18,India,
 2020-01-19,India,
 2020-01-20,India,
@@ -1307,14 +1322,13 @@
 2020-03-03,India,
 2020-03-04,India,
 2020-03-05,India,
-2020-03-06,India,3404.0
-2020-03-06,India,4058.0
-2020-03-07,India,4058.0
-2020-03-08,India,4058.0
-2020-03-09,India,5255.0
-2020-03-10,India,5255.0
-2020-03-11,India,5255.0
-2020-03-12,India,5255.0
+2020-03-06,India,
+2020-03-07,India,
+2020-03-08,India,
+2020-03-09,India,
+2020-03-10,India,
+2020-03-11,India,
+2020-03-12,India,
 2020-03-13,India,5900.0
 2020-03-13,India,6500.0
 2020-03-14,India,6500.0
@@ -1343,8 +1357,8 @@
 2020-03-28,India,27688.0
 2020-03-29,India,27688.0
 2020-03-30,India,27688.0
-2020-03-31,India,42788.0
-2020-04-01,India,47951.0
+2020-03-31,India,27688.0
+2020-04-01,India,27688.0
 2020-04-02,India,47951.0
 2020-04-03,India,69245.0
 2020-04-04,India,79950.0
@@ -1354,7 +1368,9 @@
 2020-04-08,India,127919.0
 2020-04-09,India,130792.0
 2020-04-09,India,144910.0
-2020-04-10,India,144910.0
+2020-04-10,India,147034.0
+2020-04-10,India,161330.0
+2020-04-11,India,161330.0
 2020-01-18,Indonesia,
 2020-01-19,Indonesia,
 2020-01-20,Indonesia,
@@ -1439,6 +1455,7 @@
 2020-04-08,Indonesia,14571.0
 2020-04-09,Indonesia,16848.0
 2020-04-10,Indonesia,19452.0
+2020-04-11,Indonesia,19782.0
 2020-01-18,Ireland,
 2020-01-19,Ireland,
 2020-01-20,Ireland,
@@ -1523,6 +1540,7 @@
 2020-04-08,Ireland,42484.0
 2020-04-09,Ireland,42484.0
 2020-04-10,Ireland,42484.0
+2020-04-11,Ireland,42484.0
 2020-01-18,Italy,
 2020-01-19,Italy,
 2020-01-20,Italy,
@@ -1607,6 +1625,7 @@
 2020-04-08,Italy,807125.0
 2020-04-09,Italy,853369.0
 2020-04-10,Italy,906864.0
+2020-04-11,Italy,963473.0
 2020-01-18,Japan,
 2020-01-19,Japan,
 2020-01-20,Japan,
@@ -1630,28 +1649,28 @@
 2020-02-07,Japan,
 2020-02-08,Japan,
 2020-02-09,Japan,
-2020-02-10,Japan,938.0
-2020-02-11,Japan,938.0
-2020-02-12,Japan,954.0
-2020-02-13,Japan,964.0
-2020-02-14,Japan,978.0
-2020-02-15,Japan,978.0
-2020-02-16,Japan,978.0
-2020-02-17,Japan,1251.0
-2020-02-18,Japan,1287.0
-2020-02-19,Japan,1296.0
-2020-02-20,Japan,1432.0
-2020-02-21,Japan,1522.0
-2020-02-22,Japan,1607.0
-2020-02-23,Japan,1703.0
-2020-02-24,Japan,1742.0
-2020-02-25,Japan,1846.0
+2020-02-10,Japan,
+2020-02-11,Japan,
+2020-02-12,Japan,
+2020-02-13,Japan,
+2020-02-14,Japan,
+2020-02-15,Japan,
+2020-02-16,Japan,
+2020-02-17,Japan,
+2020-02-18,Japan,
+2020-02-19,Japan,
+2020-02-20,Japan,
+2020-02-21,Japan,
+2020-02-22,Japan,
+2020-02-23,Japan,
+2020-02-24,Japan,
+2020-02-25,Japan,
 2020-02-26,Japan,1890.0
 2020-02-27,Japan,2058.0
 2020-02-28,Japan,2209.0
-2020-02-29,Japan,2209.0
-2020-03-01,Japan,2517.0
-2020-03-02,Japan,2613.0
+2020-02-29,Japan,2339.0
+2020-03-01,Japan,2339.0
+2020-03-02,Japan,2517.0
 2020-03-03,Japan,2684.0
 2020-03-04,Japan,6519.0
 2020-03-05,Japan,6777.0
@@ -1662,13 +1681,13 @@
 2020-03-10,Japan,9600.0
 2020-03-11,Japan,10024.0
 2020-03-12,Japan,10205.0
-2020-03-13,Japan,12060.0
-2020-03-14,Japan,12919.0
+2020-03-13,Japan,11231.0
+2020-03-14,Japan,12060.0
 2020-03-15,Japan,13026.0
 2020-03-16,Japan,13068.0
-2020-03-17,Japan,15151.0
-2020-03-18,Japan,15354.0
-2020-03-19,Japan,14901.0
+2020-03-17,Japan,15655.0
+2020-03-18,Japan,14525.0
+2020-03-19,Japan,15354.0
 2020-03-20,Japan,18844.0
 2020-03-21,Japan,18963.0
 2020-03-22,Japan,20228.0
@@ -1690,7 +1709,8 @@
 2020-04-07,Japan,55311.0
 2020-04-08,Japan,61498.0
 2020-04-09,Japan,64387.0
-2020-04-10,Japan,64387.0
+2020-04-10,Japan,68771.0
+2020-04-11,Japan,68771.0
 2020-01-18,Lithuania,
 2020-01-19,Lithuania,
 2020-01-20,Lithuania,
@@ -1775,6 +1795,7 @@
 2020-04-08,Lithuania,27807.0
 2020-04-09,Lithuania,32809.0
 2020-04-10,Lithuania,36051.0
+2020-04-11,Lithuania,38472.0
 2020-01-18,Malaysia,
 2020-01-19,Malaysia,
 2020-01-20,Malaysia,
@@ -1859,6 +1880,7 @@
 2020-04-08,Malaysia,58240.0
 2020-04-09,Malaysia,63367.0
 2020-04-10,Malaysia,67951.0
+2020-04-11,Malaysia,71897.0
 2020-01-18,Netherlands,
 2020-01-19,Netherlands,
 2020-01-20,Netherlands,
@@ -1943,6 +1965,7 @@
 2020-04-08,Netherlands,101534.0
 2020-04-09,Netherlands,101534.0
 2020-04-10,Netherlands,101534.0
+2020-04-11,Netherlands,101534.0
 2020-01-18,New Zealand,
 2020-01-19,New Zealand,
 2020-01-20,New Zealand,
@@ -2026,7 +2049,8 @@
 2020-04-07,New Zealand,47175.0
 2020-04-08,New Zealand,51165.0
 2020-04-09,New Zealand,55685.0
-2020-04-10,New Zealand,55685.0
+2020-04-10,New Zealand,58746.0
+2020-04-11,New Zealand,58746.0
 2020-01-18,Norway,
 2020-01-19,Norway,
 2020-01-20,Norway,
@@ -2111,6 +2135,7 @@
 2020-04-08,Norway,118077.0
 2020-04-09,Norway,121034.0
 2020-04-10,Norway,123170.0
+2020-04-11,Norway,124279.0
 2020-01-18,Pakistan,
 2020-01-19,Pakistan,
 2020-01-20,Pakistan,
@@ -2194,7 +2219,8 @@
 2020-04-07,Pakistan,42159.0
 2020-04-08,Pakistan,44896.0
 2020-04-09,Pakistan,54706.0
-2020-04-10,Pakistan,54706.0
+2020-04-10,Pakistan,57836.0
+2020-04-11,Pakistan,57836.0
 2020-01-18,Philippines,
 2020-01-19,Philippines,
 2020-01-20,Philippines,
@@ -2279,6 +2305,92 @@
 2020-04-08,Philippines,4568.0
 2020-04-09,Philippines,4568.0
 2020-04-10,Philippines,4568.0
+2020-04-11,Philippines,4568.0
+2020-01-18,Russia,
+2020-01-19,Russia,
+2020-01-20,Russia,
+2020-01-21,Russia,
+2020-01-22,Russia,
+2020-01-23,Russia,
+2020-01-24,Russia,
+2020-01-25,Russia,
+2020-01-26,Russia,
+2020-01-27,Russia,
+2020-01-28,Russia,
+2020-01-29,Russia,
+2020-01-30,Russia,
+2020-01-31,Russia,
+2020-02-01,Russia,
+2020-02-02,Russia,
+2020-02-03,Russia,
+2020-02-04,Russia,
+2020-02-05,Russia,
+2020-02-06,Russia,
+2020-02-07,Russia,
+2020-02-08,Russia,
+2020-02-09,Russia,
+2020-02-10,Russia,
+2020-02-11,Russia,
+2020-02-12,Russia,
+2020-02-13,Russia,
+2020-02-14,Russia,
+2020-02-15,Russia,
+2020-02-16,Russia,
+2020-02-17,Russia,
+2020-02-18,Russia,
+2020-02-19,Russia,
+2020-02-20,Russia,
+2020-02-21,Russia,
+2020-02-22,Russia,
+2020-02-23,Russia,
+2020-02-24,Russia,
+2020-02-25,Russia,
+2020-02-26,Russia,
+2020-02-27,Russia,
+2020-02-28,Russia,
+2020-02-29,Russia,
+2020-03-01,Russia,
+2020-03-02,Russia,
+2020-03-03,Russia,
+2020-03-04,Russia,
+2020-03-05,Russia,
+2020-03-06,Russia,
+2020-03-07,Russia,
+2020-03-08,Russia,
+2020-03-09,Russia,
+2020-03-10,Russia,
+2020-03-11,Russia,
+2020-03-12,Russia,
+2020-03-13,Russia,
+2020-03-14,Russia,
+2020-03-15,Russia,
+2020-03-16,Russia,
+2020-03-17,Russia,
+2020-03-18,Russia,
+2020-03-19,Russia,
+2020-03-20,Russia,
+2020-03-21,Russia,
+2020-03-22,Russia,
+2020-03-23,Russia,
+2020-03-24,Russia,
+2020-03-25,Russia,185900.0
+2020-03-26,Russia,192800.0
+2020-03-27,Russia,223500.0
+2020-03-28,Russia,243400.0
+2020-03-29,Russia,263900.0
+2020-03-30,Russia,263900.0
+2020-03-31,Russia,263900.0
+2020-04-01,Russia,406500.0
+2020-04-02,Russia,536000.0
+2020-04-03,Russia,575100.0
+2020-04-04,Russia,639600.0
+2020-04-05,Russia,697000.0
+2020-04-06,Russia,758400.0
+2020-04-07,Russia,795500.0
+2020-04-08,Russia,910200.0
+2020-04-09,Russia,1004700.0
+2020-04-10,Russia,1090000.0
+2020-04-11,Russia,1180000.0
 2020-01-18,Senegal,
 2020-01-19,Senegal,
 2020-01-20,Senegal,
@@ -2320,49 +2432,136 @@
 2020-02-25,Senegal,
 2020-02-26,Senegal,
 2020-02-27,Senegal,
-2020-02-28,Senegal,
-2020-02-29,Senegal,
-2020-03-01,Senegal,
-2020-03-02,Senegal,
-2020-03-03,Senegal,
-2020-03-04,Senegal,
-2020-03-05,Senegal,
-2020-03-06,Senegal,
-2020-03-07,Senegal,
-2020-03-08,Senegal,
-2020-03-09,Senegal,
-2020-03-10,Senegal,
-2020-03-11,Senegal,
-2020-03-12,Senegal,
-2020-03-13,Senegal,
-2020-03-14,Senegal,
-2020-03-15,Senegal,
-2020-03-16,Senegal,
-2020-03-17,Senegal,44.0
-2020-03-18,Senegal,71.0
-2020-03-19,Senegal,93.0
-2020-03-20,Senegal,149.0
-2020-03-21,Senegal,180.0
-2020-03-22,Senegal,265.0
-2020-03-23,Senegal,325.0
-2020-03-24,Senegal,384.0
-2020-03-25,Senegal,526.0
-2020-03-26,Senegal,656.0
-2020-03-27,Senegal,800.0
-2020-03-28,Senegal,898.0
-2020-03-29,Senegal,1049.0
-2020-03-30,Senegal,1136.0
-2020-03-31,Senegal,1233.0
-2020-04-01,Senegal,1428.0
-2020-04-02,Senegal,1555.0
-2020-04-03,Senegal,1708.0
-2020-04-04,Senegal,1885.0
-2020-04-05,Senegal,1977.0
-2020-04-06,Senegal,2072.0
-2020-04-07,Senegal,2182.0
-2020-04-08,Senegal,2290.0
-2020-04-09,Senegal,2489.0
-2020-04-10,Senegal,2684.0
+2020-02-28,Senegal,1.0
+2020-02-29,Senegal,1.0
+2020-03-01,Senegal,1.0
+2020-03-02,Senegal,1.0
+2020-03-03,Senegal,1.0
+2020-03-04,Senegal,1.0
+2020-03-05,Senegal,1.0
+2020-03-06,Senegal,1.0
+2020-03-07,Senegal,1.0
+2020-03-08,Senegal,1.0
+2020-03-09,Senegal,1.0
+2020-03-10,Senegal,1.0
+2020-03-11,Senegal,1.0
+2020-03-12,Senegal,1.0
+2020-03-13,Senegal,1.0
+2020-03-14,Senegal,1.0
+2020-03-15,Senegal,1.0
+2020-03-16,Senegal,1.0
+2020-03-17,Senegal,1.0
+2020-03-18,Senegal,1.0
+2020-03-19,Senegal,1.0
+2020-03-20,Senegal,1.0
+2020-03-21,Senegal,1.0
+2020-03-22,Senegal,1.0
+2020-03-23,Senegal,1.0
+2020-03-24,Senegal,1.0
+2020-03-25,Senegal,1.0
+2020-03-26,Senegal,1.0
+2020-03-27,Senegal,1.0
+2020-03-28,Senegal,1.0
+2020-03-29,Senegal,1.0
+2020-03-30,Senegal,1.0
+2020-03-31,Senegal,1.0
+2020-04-01,Senegal,1.0
+2020-04-02,Senegal,1.0
+2020-04-03,Senegal,1.0
+2020-04-04,Senegal,1.0
+2020-04-05,Senegal,1.0
+2020-04-06,Senegal,1.0
+2020-04-07,Senegal,1.0
+2020-04-08,Senegal,1.0
+2020-04-09,Senegal,1.0
+2020-04-10,Senegal,1.0
+2020-04-11,Senegal,1.0
+2020-01-18,Singapore,
+2020-01-19,Singapore,
+2020-01-20,Singapore,
+2020-01-21,Singapore,
+2020-01-22,Singapore,
+2020-01-23,Singapore,
+2020-01-24,Singapore,
+2020-01-25,Singapore,
+2020-01-26,Singapore,
+2020-01-27,Singapore,
+2020-01-28,Singapore,
+2020-01-29,Singapore,
+2020-01-30,Singapore,
+2020-01-31,Singapore,
+2020-02-01,Singapore,
+2020-02-02,Singapore,
+2020-02-03,Singapore,
+2020-02-04,Singapore,
+2020-02-05,Singapore,
+2020-02-06,Singapore,
+2020-02-07,Singapore,
+2020-02-08,Singapore,
+2020-02-09,Singapore,
+2020-02-10,Singapore,
+2020-02-11,Singapore,
+2020-02-12,Singapore,
+2020-02-13,Singapore,
+2020-02-14,Singapore,
+2020-02-15,Singapore,
+2020-02-16,Singapore,
+2020-02-17,Singapore,
+2020-02-18,Singapore,
+2020-02-19,Singapore,
+2020-02-20,Singapore,
+2020-02-21,Singapore,
+2020-02-22,Singapore,
+2020-02-23,Singapore,
+2020-02-24,Singapore,
+2020-02-25,Singapore,
+2020-02-26,Singapore,
+2020-02-27,Singapore,
+2020-02-28,Singapore,
+2020-02-29,Singapore,
+2020-03-01,Singapore,
+2020-03-02,Singapore,
+2020-03-03,Singapore,
+2020-03-04,Singapore,
+2020-03-05,Singapore,
+2020-03-06,Singapore,
+2020-03-07,Singapore,
+2020-03-08,Singapore,
+2020-03-09,Singapore,
+2020-03-10,Singapore,
+2020-03-11,Singapore,
+2020-03-12,Singapore,
+2020-03-13,Singapore,
+2020-03-14,Singapore,
+2020-03-15,Singapore,
+2020-03-16,Singapore,
+2020-03-17,Singapore,
+2020-03-18,Singapore,
+2020-03-19,Singapore,
+2020-03-20,Singapore,
+2020-03-21,Singapore,
+2020-03-22,Singapore,
+2020-03-23,Singapore,
+2020-03-24,Singapore,
+2020-03-25,Singapore,
+2020-03-26,Singapore,
+2020-03-27,Singapore,
+2020-03-28,Singapore,
+2020-03-29,Singapore,
+2020-03-30,Singapore,
+2020-03-31,Singapore,
+2020-04-01,Singapore,
+2020-04-02,Singapore,
+2020-04-03,Singapore,
+2020-04-04,Singapore,
+2020-04-05,Singapore,
+2020-04-06,Singapore,
+2020-04-07,Singapore,47486.0
+2020-04-07,Singapore,72680.0
+2020-04-08,Singapore,72680.0
+2020-04-09,Singapore,72680.0
+2020-04-10,Singapore,72680.0
+2020-04-11,Singapore,72680.0
 2020-01-18,South Africa,
 2020-01-19,South Africa,
 2020-01-20,South Africa,
@@ -2387,41 +2586,41 @@
 2020-02-08,South Africa,
 2020-02-09,South Africa,
 2020-02-10,South Africa,
-2020-02-11,South Africa,
-2020-02-12,South Africa,
-2020-02-13,South Africa,
-2020-02-14,South Africa,
-2020-02-15,South Africa,
-2020-02-16,South Africa,
-2020-02-17,South Africa,
-2020-02-18,South Africa,
-2020-02-19,South Africa,
-2020-02-20,South Africa,
-2020-02-21,South Africa,
-2020-02-22,South Africa,
-2020-02-23,South Africa,
-2020-02-24,South Africa,
-2020-02-25,South Africa,
-2020-02-26,South Africa,
-2020-02-27,South Africa,
-2020-02-28,South Africa,
-2020-02-29,South Africa,
-2020-03-01,South Africa,
-2020-03-02,South Africa,
-2020-03-03,South Africa,
-2020-03-04,South Africa,
-2020-03-05,South Africa,
-2020-03-06,South Africa,
-2020-03-07,South Africa,
-2020-03-08,South Africa,
-2020-03-09,South Africa,
-2020-03-10,South Africa,
+2020-02-11,South Africa,61.0
+2020-02-12,South Africa,61.0
+2020-02-13,South Africa,67.0
+2020-02-14,South Africa,71.0
+2020-02-15,South Africa,71.0
+2020-02-16,South Africa,71.0
+2020-02-17,South Africa,71.0
+2020-02-18,South Africa,71.0
+2020-02-19,South Africa,95.0
+2020-02-20,South Africa,106.0
+2020-02-21,South Africa,106.0
+2020-02-22,South Africa,106.0
+2020-02-23,South Africa,106.0
+2020-02-24,South Africa,116.0
+2020-02-25,South Africa,116.0
+2020-02-26,South Africa,121.0
+2020-02-27,South Africa,121.0
+2020-02-28,South Africa,121.0
+2020-02-29,South Africa,121.0
+2020-03-01,South Africa,121.0
+2020-03-02,South Africa,160.0
+2020-03-03,South Africa,164.0
+2020-03-04,South Africa,164.0
+2020-03-05,South Africa,164.0
+2020-03-06,South Africa,200.0
+2020-03-07,South Africa,241.0
+2020-03-08,South Africa,241.0
+2020-03-09,South Africa,241.0
+2020-03-10,South Africa,241.0
 2020-03-11,South Africa,645.0
 2020-03-12,South Africa,848.0
 2020-03-13,South Africa,924.0
 2020-03-14,South Africa,1017.0
 2020-03-15,South Africa,1476.0
-2020-03-16,South Africa,2343.0
+2020-03-16,South Africa,2405.0
 2020-03-17,South Africa,2911.0
 2020-03-18,South Africa,3070.0
 2020-03-19,South Africa,4832.0
@@ -2446,7 +2645,8 @@
 2020-04-07,South Africa,58098.0
 2020-04-08,South Africa,63776.0
 2020-04-09,South Africa,68874.0
-2020-04-10,South Africa,68874.0
+2020-04-10,South Africa,73028.0
+2020-04-11,South Africa,73028.0
 2020-01-18,South Korea,
 2020-01-19,South Korea,
 2020-01-20,South Korea,
@@ -2531,6 +2731,7 @@
 2020-04-08,South Korea,486003.0
 2020-04-09,South Korea,494711.0
 2020-04-10,South Korea,503051.0
+2020-04-11,South Korea,510479.0
 2020-01-18,Sweden,
 2020-01-19,Sweden,
 2020-01-20,Sweden,
@@ -2615,6 +2816,7 @@
 2020-04-08,Sweden,54700.0
 2020-04-09,Sweden,54700.0
 2020-04-10,Sweden,54700.0
+2020-04-11,Sweden,54700.0
 2020-01-18,Switzerland,
 2020-01-19,Switzerland,
 2020-01-20,Switzerland,
@@ -2699,6 +2901,7 @@
 2020-04-08,Switzerland,171938.0
 2020-04-09,Switzerland,178500.0
 2020-04-10,Switzerland,184750.0
+2020-04-11,Switzerland,190000.0
 2020-01-18,Taiwan,
 2020-01-19,Taiwan,
 2020-01-20,Taiwan,
@@ -2747,42 +2950,43 @@
 2020-03-03,Taiwan,
 2020-03-04,Taiwan,
 2020-03-05,Taiwan,
-2020-03-06,Taiwan,
-2020-03-07,Taiwan,
-2020-03-08,Taiwan,
-2020-03-09,Taiwan,
-2020-03-10,Taiwan,
-2020-03-11,Taiwan,
-2020-03-12,Taiwan,
-2020-03-13,Taiwan,
-2020-03-14,Taiwan,
-2020-03-15,Taiwan,
-2020-03-16,Taiwan,
-2020-03-17,Taiwan,
-2020-03-18,Taiwan,
-2020-03-19,Taiwan,
-2020-03-20,Taiwan,
-2020-03-21,Taiwan,22743.0
+2020-03-06,Taiwan,13555.0
+2020-03-07,Taiwan,13855.0
+2020-03-08,Taiwan,14154.0
+2020-03-09,Taiwan,14635.0
+2020-03-10,Taiwan,14970.0
+2020-03-11,Taiwan,15413.0
+2020-03-12,Taiwan,16089.0
+2020-03-13,Taiwan,16530.0
+2020-03-14,Taiwan,16911.0
+2020-03-15,Taiwan,17219.0
+2020-03-16,Taiwan,17935.0
+2020-03-17,Taiwan,18812.0
+2020-03-18,Taiwan,20014.0
+2020-03-19,Taiwan,21376.0
+2020-03-20,Taiwan,22743.0
+2020-03-21,Taiwan,23805.0
 2020-03-22,Taiwan,24609.0
-2020-03-23,Taiwan,24609.0
-2020-03-24,Taiwan,25746.0
-2020-03-25,Taiwan,26659.0
-2020-03-26,Taiwan,27532.0
-2020-03-27,Taiwan,28501.0
-2020-03-28,Taiwan,29389.0
-2020-03-29,Taiwan,29910.0
-2020-03-30,Taiwan,30777.0
-2020-03-31,Taiwan,31800.0
-2020-04-01,Taiwan,32720.0
-2020-04-02,Taiwan,33733.0
-2020-04-03,Taiwan,34557.0
-2020-04-04,Taiwan,34557.0
-2020-04-05,Taiwan,36304.0
-2020-04-06,Taiwan,37219.0
-2020-04-07,Taiwan,37219.0
-2020-04-08,Taiwan,40702.0
-2020-04-09,Taiwan,42315.0
-2020-04-10,Taiwan,43886.0
+2020-03-23,Taiwan,25746.0
+2020-03-24,Taiwan,26660.0
+2020-03-25,Taiwan,27532.0
+2020-03-26,Taiwan,28507.0
+2020-03-27,Taiwan,29389.0
+2020-03-28,Taiwan,29915.0
+2020-03-29,Taiwan,30777.0
+2020-03-30,Taiwan,31800.0
+2020-03-31,Taiwan,32726.0
+2020-04-01,Taiwan,33733.0
+2020-04-02,Taiwan,34557.0
+2020-04-03,Taiwan,35442.0
+2020-04-04,Taiwan,36304.0
+2020-04-05,Taiwan,37219.0
+2020-04-06,Taiwan,39011.0
+2020-04-07,Taiwan,40702.0
+2020-04-08,Taiwan,42315.0
+2020-04-09,Taiwan,43886.0
+2020-04-10,Taiwan,45446.0
+2020-04-11,Taiwan,45446.0
 2020-01-18,Thailand,
 2020-01-19,Thailand,
 2020-01-20,Thailand,
@@ -2865,8 +3069,9 @@
 2020-04-06,Thailand,25857.0
 2020-04-07,Thailand,27049.0
 2020-04-08,Thailand,28709.0
-2020-04-09,Thailand,28709.0
-2020-04-10,Thailand,28709.0
+2020-04-09,Thailand,30542.0
+2020-04-10,Thailand,30542.0
+2020-04-11,Thailand,30542.0
 2020-01-18,Tunisia,
 2020-01-19,Tunisia,
 2020-01-20,Tunisia,
@@ -2951,6 +3156,7 @@
 2020-04-08,Tunisia,9776.0
 2020-04-09,Tunisia,9776.0
 2020-04-10,Tunisia,9776.0
+2020-04-11,Tunisia,9776.0
 2020-01-18,Turkey,
 2020-01-19,Turkey,
 2020-01-20,Turkey,
@@ -3034,7 +3240,8 @@
 2020-04-07,Turkey,228868.0
 2020-04-08,Turkey,247768.0
 2020-04-09,Turkey,276338.0
-2020-04-10,Turkey,276346.0
+2020-04-10,Turkey,307210.0
+2020-04-11,Turkey,340380.0
 2020-01-18,United Kingdom,
 2020-01-19,United Kingdom,
 2020-01-20,United Kingdom,
@@ -3118,7 +3325,8 @@
 2020-04-07,United Kingdom,213181.0
 2020-04-08,United Kingdom,232708.0
 2020-04-09,United Kingdom,243421.0
-2020-04-10,United Kingdom,243421.0
+2020-04-10,United Kingdom,256605.0
+2020-04-11,United Kingdom,269598.0
 2020-01-18,United States,4.0
 2020-01-19,United States,4.0
 2020-01-20,United States,11.0
@@ -3182,7 +3390,7 @@
 2020-03-08,United States,14425.0
 2020-03-09,United States,4137.0
 2020-03-09,United States,17812.0
-2020-03-10,United States,4817.0
+2020-03-10,United States,4818.0
 2020-03-10,United States,21535.0
 2020-03-11,United States,7366.0
 2020-03-11,United States,26040.0
@@ -3196,48 +3404,49 @@
 2020-03-15,United States,51275.0
 2020-03-16,United States,40402.0
 2020-03-16,United States,62268.0
-2020-03-17,United States,53730.0
+2020-03-17,United States,54084.0
 2020-03-17,United States,73464.0
-2020-03-18,United States,74323.0
+2020-03-18,United States,75266.0
 2020-03-18,United States,83930.0
-2020-03-19,United States,101337.0
+2020-03-19,United States,101009.0
 2020-03-19,United States,94114.0
-2020-03-20,United States,135715.0
+2020-03-20,United States,136392.0
 2020-03-20,United States,103815.0
-2020-03-21,United States,179579.0
+2020-03-21,United States,181206.0
 2020-03-21,United States,109372.0
-2020-03-22,United States,225782.0
+2020-03-22,United States,227425.0
 2020-03-22,United States,114233.0
-2020-03-23,United States,280128.0
+2020-03-23,United States,282755.0
 2020-03-23,United States,123149.0
-2020-03-24,United States,345419.0
+2020-03-24,United States,349146.0
 2020-03-24,United States,132013.0
-2020-03-25,United States,422449.0
+2020-03-25,United States,432683.0
 2020-03-25,United States,141286.0
-2020-03-26,United States,520408.0
+2020-03-26,United States,529074.0
 2020-03-26,United States,150957.0
-2020-03-27,United States,628632.0
+2020-03-27,United States,639723.0
 2020-03-27,United States,160671.0
-2020-03-28,United States,736972.0
+2020-03-28,United States,747676.0
 2020-03-28,United States,167083.0
-2020-03-29,United States,832456.0
+2020-03-29,United States,840763.0
 2020-03-29,United States,172459.0
-2020-03-30,United States,945518.0
+2020-03-30,United States,959393.0
 2020-03-30,United States,183511.0
-2020-03-31,United States,1050037.0
+2020-03-31,United States,1066383.0
 2020-03-31,United States,194886.0
-2020-04-01,United States,1151017.0
+2020-04-01,United States,1169915.0
 2020-04-01,United States,205803.0
-2020-04-02,United States,1269912.0
+2020-04-02,United States,1291877.0
 2020-04-02,United States,217629.0
-2020-04-03,United States,1399629.0
-2020-04-04,United States,1625519.0
-2020-04-05,United States,1763652.0
-2020-04-06,United States,1910310.0
-2020-04-07,United States,2058060.0
-2020-04-08,United States,2198254.0
-2020-04-09,United States,2360512.0
-2020-04-10,United States,2360512.0
+2020-04-03,United States,1423914.0
+2020-04-04,United States,1653201.0
+2020-04-05,United States,1775802.0
+2020-04-06,United States,1925044.0
+2020-04-07,United States,2073121.0
+2020-04-08,United States,2212685.0
+2020-04-09,United States,2375211.0
+2020-04-10,United States,2528725.0
+2020-04-11,United States,2528725.0
 2020-01-18,Uruguay,
 2020-01-19,Uruguay,
 2020-01-20,Uruguay,
@@ -3322,6 +3531,7 @@
 2020-04-08,Uruguay,5614.0
 2020-04-09,Uruguay,5614.0
 2020-04-10,Uruguay,6175.0
+2020-04-11,Uruguay,6175.0
 2020-01-18,Vietnam,
 2020-01-19,Vietnam,
 2020-01-20,Vietnam,
@@ -3406,3 +3616,4 @@
 2020-04-08,Vietnam,110124.0
 2020-04-09,Vietnam,114241.0
 2020-04-10,Vietnam,118807.0
+2020-04-11,Vietnam,121821.0
