@@ -51,8 +51,8 @@ Note that the forecast for some countries below may not be shown to extended poi
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_Kingdom.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Spain.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Italy.png?raw=true">
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Germany.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_France.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Germany.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Switzerland.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Belgium.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Turkey.png?raw=true">
