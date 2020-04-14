@@ -47,10 +47,10 @@ Using the technique applied and tested for China and South Korea, the model is r
 <p>
 Note that the forecast for some countries below may not be shown to extended points in time as the Python package fails to reach a convergence point after thousands of iterations, mainly due to the limited available periods and a very high rate of change of growth that does not fit Richard's curve beyond a certain range of data points.
 <p>
+  <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_States.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_Kingdom.png?raw=true">
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_States.png?raw=true">
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Italy.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Spain.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Italy.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Germany.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_France.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Switzerland.png?raw=true">
