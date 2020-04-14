@@ -1,25 +1,25 @@
 country,pop
-China,1402189880
-India,1360979857
-United States,329619014
+China,1402204400
+India,1361020116
+United States,329624709
 Indonesia,266911900
-Pakistan,219269520
-Brazil,211385256
+Pakistan,219280520
+Brazil,211389669
 Nigeria,206139587
-Bangladesh,168433806
+Bangladesh,168439432
 Russia,146745098
 Mexico,126577691
 Japan,125950000
-Philippines,108534863
-Egypt,100243301
+Philippines,108539263
+Egypt,100247225
 Ethiopia,98665000
 Vietnam,96208984
 DR Congo,89561404
-Iran,83361074
+Iran,83363802
 Turkey,83154997
 Germany,83149300
 France,67076000
-Thailand,66492867
+Thailand,66493255
 United Kingdom,66435550
 Italy,60238522
 South Africa,58775022
@@ -31,16 +31,16 @@ Kenya,47564296
 Spain,47100396
 Argentina,44938712
 Algeria,43000000
-Sudan,42422125
+Sudan,42424760
 Ukraine,41879904
 Uganda,40299300
 Iraq,39127900
 Poland,38379000
-Canada,37991960
-Morocco,35867310
+Canada,37993130
+Morocco,35868274
 Saudi Arabia,34218169
-Uzbekistan,34124189
-Malaysia,32748760
+Uzbekistan,34126048
+Malaysia,32749760
 Afghanistan,32225560
 Venezuela,32219521
 Peru,32131400
@@ -52,7 +52,7 @@ Yemen,29825968
 Cameroon,26545864
 Madagascar,26251309
 Ivory Coast,25823071
-Australia,25676652
+Australia,25677680
 North Korea,25450000
 Taiwan,23604265
 Niger,22314743
@@ -62,11 +62,11 @@ Mali,20250833
 Romania,19405156
 Malawi,19129952
 Chile,19107216
-Kazakhstan,18681248
+Kazakhstan,18681864
 Zambia,17885422
 Syria,17500657
-Ecuador,17464160
-Netherlands,17454881
+Ecuador,17464836
+Netherlands,17455231
 Guatemala,16604026
 Chad,16244513
 Senegal,16209125
@@ -85,7 +85,7 @@ Cuba,11209628
 Burundi,10953317
 Greece,10724599
 Czech Republic,10693939
-Jordan,10657360
+Jordan,10658084
 Dominican Republic,10358320
 Sweden,10338368
 Portugal,10276617
@@ -93,7 +93,7 @@ Azerbaijan,10067108
 United Arab Emirates,9890400
 Hungary,9772756
 Belarus,9408400
-Israel,9184950
+Israel,9185400
 Honduras,9158345
 Tajikistan,9127000
 Papua New Guinea,8935000
@@ -120,7 +120,7 @@ Central African Republic,5496011
 Slovakia,5456362
 Norway,5367580
 Costa Rica,5058007
-New Zealand,4977774
+New Zealand,4978026
 Palestine,4976684
 Ireland,4921500
 Oman,4664790
@@ -132,7 +132,7 @@ Croatia,4076246
 Georgia,3723464
 Uruguay,3518552
 Eritrea,3497117
-Mongolia,3312393
+Mongolia,3312557
 Bosnia and Herzegovina,3301000
 Puerto Rico (US),3193694
 Armenia,2957500
@@ -194,18 +194,18 @@ Kiribati,120100
 Aruba (Netherlands),112309
 Grenada,112003
 Saint Vincent and the Grenadines,110608
-Jersey,106800
+Jersey (UK),106800
 U.S. Virgin Islands (US),104578
 F.S. Micronesia,104468
 Tonga,100651
 Seychelles,97625
 Antigua and Barbuda,96453
-Isle of Man,83314
+Isle of Man (UK),83314
 Andorra,77543
 Dominica,71808
 Cayman Islands (UK),65813
 Bermuda (UK),64027
-Guernsey,62792
+Guernsey (UK),62792
 American Samoa (US),56700
 Greenland (Denmark),56081
 Northern Mariana Islands (US),56200
@@ -240,4 +240,4 @@ Tokelau (NZ),1400
 Vatican City,799
 Cocos (Keeling) Islands (Australia),538
 Pitcairn Islands (UK),50
-World,7778262000
+World,7778486000
