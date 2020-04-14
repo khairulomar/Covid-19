@@ -54,7 +54,7 @@ Using the technique applied and tested for China and South Korea, the model is r
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Malaysia.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Australia.png?raw=true">
 <p>
-Using forecasts tailored by country above, we can make a comparison between countries on how the number cases has changed over the past one month and how it is forecasted to change over the next one month as shown in the two charts below.
+Using forecasts tailored by country above, we can make a comparison between different countries to see how the number cases has changed over the past one month and how it is forecasted to change over the next one month as shown in the two charts below.
 <p>
 <b>Figure 5: One-month forward forecasts for key countries</b>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_multicountries_daily_new_cases.png">
