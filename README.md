@@ -51,6 +51,8 @@ Using the technique applied and tested for China and South Korea, the model is r
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Switzerland.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Belgium.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Turkey.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Iran.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Sweden.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Malaysia.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Australia.png?raw=true">
 <p>
