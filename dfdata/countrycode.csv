@@ -1,6 +1,6 @@
 country,ccode2,ccode3
 Afghanistan,AF,AFG
-Åland Islands,AX,ALA
+Aland Islands,AX,ALA
 Albania,AL,ALB
 Algeria,DZ,DZA
 American Samoa,AS,ASM
@@ -36,7 +36,7 @@ Brunei,BN,BRN
 Bulgaria,BG,BGR
 Burkina Faso,BF,BFA
 Burundi,BI,BDI
-Cape Verde,CV,CPV
+Cabo Verde,CV,CPV
 Cambodia,KH,KHM
 Cameroon,CM,CMR
 Canada,CA,CAN
@@ -170,7 +170,7 @@ Norway,NO,NOR
 Oman,OM,OMN
 Pakistan,PK,PAK
 Palau,PW,PLW
-West Bank and Gaza,PS,PSE
+Palestine,PS,PSE
 Panama,PA,PAN
 Papua New Guinea,PG,PNG
 Paraguay,PY,PRY
@@ -201,7 +201,7 @@ Serbia,RS,SRB
 Seychelles,SC,SYC
 Sierra Leone,SL,SLE
 Singapore,SG,SGP
-Sint Maarten (Dutch part),SX,SXM
+St. Martin,SX,SXM
 Slovakia,SK,SVK
 Slovenia,SI,SVN
 Solomon Islands,SB,SLB
@@ -221,7 +221,7 @@ Taiwan,TW,TWN
 Tajikistan,TJ,TJK
 Tanzania,TZ,TZA
 Thailand,TH,THA
-East Timor,TL,TLS
+Timor-Leste,TL,TLS
 Togo,TG,TGO
 Tokelau,TK,TKL
 Tonga,TO,TON
@@ -242,8 +242,8 @@ Uzbekistan,UZ,UZB
 Vanuatu,VU,VUT
 Venezuela,VE,VEN
 Vietnam,VN,VNM
-Virgin Islands (British),VG,VGB
-Virgin Islands (U.S.),VI,VIR
+British Virgin Islands,VG,VGB
+US Virgin Islands,VI,VIR
 Wallis and Futuna,WF,WLF
 Western Sahara,EH,ESH
 Yemen,YE,YEM

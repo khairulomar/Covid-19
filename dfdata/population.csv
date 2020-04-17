@@ -14,7 +14,7 @@ Philippines,108543662
 Egypt,100251150
 Ethiopia,98665000
 Vietnam,96208984
-DR Congo,89561404
+Congo (Kinshasa),89561404
 Iran,83366530
 Turkey,83154997
 Germany,83149300
@@ -24,7 +24,7 @@ United Kingdom,66435550
 Italy,60238522
 South Africa,58775022
 Tanzania,55890747
-Myanmar,54339766
+Burma,54339766
 South Korea,51780579
 Colombia,49395678
 Kenya,47564296
@@ -51,7 +51,7 @@ Nepal,29996478
 Yemen,29825968
 Cameroon,26545864
 Madagascar,26251309
-Ivory Coast,25823071
+Cote d'Ivoire,25823071
 Australia,25678709
 North Korea,25450000
 Taiwan,23604265
@@ -101,7 +101,7 @@ Austria,8902600
 Switzerland,8603900
 Sierra Leone,7901454
 Togo,7538000
-Hong Kong (China),7500700
+Hong Kong,7500700
 Paraguay,7152703
 Laos,7123205
 Bulgaria,7000039
@@ -115,7 +115,7 @@ Turkmenistan,6031187
 Denmark,5822763
 Singapore,5703600
 Finland,5527573
-Congo,5518092
+Congo (Brazzaville),5518092
 Central African Republic,5496011
 Slovakia,5456362
 Norway,5367580
@@ -134,7 +134,7 @@ Uruguay,3518552
 Eritrea,3497117
 Mongolia,3312721
 Bosnia and Herzegovina,3301000
-Puerto Rico (US),3193694
+Puerto Rico,3193694
 Armenia,2957500
 Albania,2845955
 Lithuania,2793471
@@ -152,7 +152,7 @@ Latvia,1906800
 Kosovo,1795666
 Guinea-Bissau,1604528
 Bahrain,1543300
-East Timor,1387149
+Timor-Leste,1387149
 Trinidad and Tobago,1363985
 Equatorial Guinea,1358276
 Estonia,1328360
@@ -165,12 +165,12 @@ Comoros,873724
 Guyana,782766
 Bhutan,741672
 Solomon Islands,680806
-Macau (China),679600
+Macau,679600
 Montenegro,622359
 Luxembourg,626108
 Western Sahara,582463
 Suriname,581372
-Cape Verde,550483
+Cabo Verde,550483
 Malta,493559
 Transnistria,469000
 Brunei,442400
@@ -181,63 +181,66 @@ Iceland,364260
 Northern Cyprus,351965
 Vanuatu,304500
 Barbados,287025
-New Caledonia (France),282200
-French Polynesia (France),275918
+New Caledonia,282200
+French Polynesia,275918
 Abkhazia,244832
-São Tomé and Príncipe,201784
+Sao Tome and Principe,201784
 Samoa,200874
 Saint Lucia,178696
-Guam (US),172400
-Curaçao (Netherlands),158665
+Guam,172400
+Curacao,158665
 Artsakh,148000
 Kiribati,120100
-Aruba (Netherlands),112309
+Aruba,112309
 Grenada,112003
 Saint Vincent and the Grenadines,110608
-Jersey (UK),106800
-U.S. Virgin Islands (US),104578
-F.S. Micronesia,104468
+Jersey,106800
+US Virgin Islands,104578
+Micronesia (Federated States of),104468
 Tonga,100651
 Seychelles,97625
 Antigua and Barbuda,96453
-Isle of Man (UK),83314
+Isle of Man,83314
 Andorra,77543
 Dominica,71808
-Cayman Islands (UK),65813
-Bermuda (UK),64027
-Guernsey (UK),62792
-American Samoa (US),56700
-Greenland (Denmark),56081
-Northern Mariana Islands (US),56200
+Cayman Islands,65813
+Bermuda,64027
+Guernsey,62792
+American Samoa,56700
+Greenland,56081
+Northern Mariana Islands,56200
 Marshall Islands,55500
 South Ossetia,53532
 Saint Kitts and Nevis,52823
-Faroe Islands (Denmark),52124
-Turks and Caicos Islands (UK),41369
-Sint Maarten (Netherlands),40614
+Faroe Islands,52124
+Turks and Caicos Islands,41369
+St. Martin,40614
 Liechtenstein,38749
 Monaco,38300
-Saint Martin (France),35746
-Gibraltar (UK),33701
+Saint Martin,35746
+Gibraltar,33701
 San Marino,33574
-British Virgin Islands (UK),30030
-Åland Islands (Finland),29885
+British Virgin Islands,30030
+Aland Islands,29885
 Palau,17900
-Cook Islands (NZ),15200
-Anguilla (UK),14869
-Wallis and Futuna (France),11700
+Cook Islands,15200
+Anguilla,14869
+Wallis and Futuna,11700
 Nauru,11000
 Tuvalu,10200
-Saint Barthélemy (France),9793
-Saint Pierre and Miquelon (France),6008
-"Saint Helena, Ascensionand Tristan da Cunha (UK)",5633
-Montserrat (UK),4989
-Falkland Islands (UK),3198
-Christmas Island (Australia),1928
-Norfolk Island (Australia),1756
-Niue (NZ),1520
-Tokelau (NZ),1400
+Saint Barthelemy,9793
+Saint Pierre and Miquelon,6008
+Saint Helena,5633
+Montserrat,4989
+Falkland Islands,3198
+Christmas Island,1928
+Norfolk Island,1756
+Niue,1520
+Tokelau,1400
 Vatican City,799
-Cocos (Keeling) Islands (Australia),538
-Pitcairn Islands (UK),50
+Cocos (Keeling) Islands,538
+Pitcairn Islands,50
 World,7778701000
+Channel Islands,169592
+Diamond Princess,3711
+MS Zaandam,1829
