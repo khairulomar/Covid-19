@@ -42,14 +42,14 @@ Using the technique applied and tested for China and South Korea, the model is r
 1. The turning point when the number of new cases would start to drop 
 2. The amount of time remaining before the total number of cases would stabilize due to very small number of new cases. This should not be strictly interpreted as the end of outbreak or the lockdown measures for a given country as there are other factors at play.
 <p>
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_States.png?raw=true">
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_Kingdom.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Spain.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Italy.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_France.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Germany.png?raw=true">
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Iran.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_States.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_Kingdom.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Turkey.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Iran.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Belgium.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Switzerland.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Sweden.png?raw=true">
