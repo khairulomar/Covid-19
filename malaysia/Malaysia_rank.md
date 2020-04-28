@@ -1,5 +1,5 @@
 # Benchmarking government response on Covid-19 in Malaysia vs. key countries
-updated 9 Apr 2020
+#### First published 9 Apr 2020
 <p>
 As Malaysia heads into its third week of Movement Restriction Order (MCO), we seek to study how the lockdown is impacting the number of confirmed Covid-19 cases and to compare various performance measures with other countries. University of Oxford is currently the leading authority in tracking government responses from around the world in handling the crisis under its <a href="https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker">OxCGRT data repository</a>. Based on multiple responsive measures such as movement restrictions, contact tracing and testing policy, OxCGRT generates a stringency index as a measure to rank countries on how strict the government policies are, which is updated on a daily basis.
 <p>  
