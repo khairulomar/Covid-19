@@ -69,15 +69,15 @@ Using forecasts tailored by country above, we can make a comparison between diff
   
 ## Analysis for Malaysia
 
-Article 1 : The Impact of Covid-19 Lockdown by Key Countries 
+Article 1 : <b>The Impact of Covid-19 Lockdown by Key Countries</b><p>
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">Github</a>] 
 [<a href="https://twitter.com/YDLMalaysia/status/1246383903394258944">Publication 1</a>] 
 [<a href="https://twitter.com/smc_my/status/1246770114134822918">Publication 2</a>] 
 <p>
-Article 2 : Benchmarking Government Response On Covid-19 in Malaysia VS Key Countries 
+Article 2 : <b>Benchmarking Government Response On Covid-19 in Malaysia VS Key Countries</b><p>
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">Github</a>] 
 [<a href="https://twitter.com/YDLMalaysia/status/1248612597164683264">Publication</a>]
 <p>
-<b>Article 3 : Evaluating the Reliability of the Number of Confirmed Covid-19 Cases Reported by Various Countries</b>
+Article 3 : <b>Evaluating the Reliability of the Number of Confirmed Covid-19 Cases Reported by Various Countries</b><p>
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">Github</a>] 
 [<a href="https://twitter.com/YDLMalaysia/status/1252458428330438661">Publication</a>]
