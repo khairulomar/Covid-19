@@ -38,6 +38,8 @@ Actual data to date is fit to this curve whereby the parameters used in the equa
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_South_Korea_latest.png?raw=true">
   
 ## Forecast for key countries
+The model performs better when the growth factor of the cumulative number of cases starts to show signs of a slowdown. When the number of cases continues to grow exponentially at a high rate however, the projected trajectory would be less reliable until more data points are available. Governments all over the world are exercising a similar caution when releasing their own expectations, which makes running a forecast beyond a week or two very difficult when cases are still growing exponentially.
+<p>
 Using the technique applied and tested for China and South Korea, the model is rolled out to other key countries in order to identify the possible timing of two key milestones:
 1. The turning point when the number of new cases would start to drop 
 2. The amount of time remaining before the total number of cases would stabilize due to very small number of new cases. This should not be strictly interpreted as the end of outbreak or the lockdown measures for a given country as there are other factors at play.
