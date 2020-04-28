@@ -71,17 +71,17 @@ Using forecasts tailored by country above, we can make a comparison between diff
 In partnership with Young Digital Leaders (YDL), a group of data volunteers set up by officials from the Ministry of Health of Malaysia, I authored the following analysis to support Malaysian government strategies in tacking Covid-19 outbreak in the country:
 
 Article 1 : <b>The Impact of Covid-19 Lockdown by Key Countries</b><br>
-[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">Github</a>] 
-[<a href="https://twitter.com/YDLMalaysia/status/1246383903394258944">Publication 1</a>] 
-[<a href="https://twitter.com/smc_my/status/1246770114134822918">Publication 2</a>] 
+[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">My Github</a>] 
+[<a href="https://twitter.com/YDLMalaysia/status/1246383903394258944">YDL Publication</a>] 
+[<a href="https://twitter.com/smc_my/status/1246770114134822918">SMCM Publication</a>] 
 <p>
 Article 2 : <b>Benchmarking Government Response On Covid-19 in Malaysia vs. Key Countries</b><br>
-[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_rank.md">Github</a>] 
-[<a href="https://twitter.com/YDLMalaysia/status/1248612597164683264">Publication</a>]
+[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_rank.md">My Github</a>] 
+[<a href="https://twitter.com/YDLMalaysia/status/1248612597164683264">YDL Publication</a>]
 <p>
 Article 3 : <b>Evaluating the Reliability of the Number of Confirmed Covid-19 Cases Reported by Various Countries</b><br>
-[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_positive_estimate.md">Github</a>] 
-[<a href="https://twitter.com/YDLMalaysia/status/1252458428330438661">Publication</a>]
+[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_positive_estimate.md">My Github</a>] 
+[<a href="https://twitter.com/YDLMalaysia/status/1252458428330438661">YDL Publication</a>]
 <p>
   
 ### About Young Digital Leaders
