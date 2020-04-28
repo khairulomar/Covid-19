@@ -34,8 +34,8 @@ The <b>general logistic function</b> (or <b><a href="https://en.wikipedia.org/wi
 Actual data to date is fit to this curve whereby the parameters used in the equation is fine-tuned using <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html"><b>SciPy</b></a> package in Python via least squares method. Below are the results when the optimized model is applied to data for China and South Korea to compare how it performs versus actual cases to date and the reasonable forecast to be expected. For the purpose of this model, it is assumed that re-infection is very unlikely and a second peak of outbreak does not occur.
 <p>
 <b>Figure 4: Model fit results for China and South Korea</b>
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_China.png?raw=true">
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_South_Korea.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_China_latest.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_South_Korea_latest.png?raw=true">
   
 ## Forecast for key countries
 Using the technique applied and tested for China and South Korea, the model is rolled out to other key countries in order to identify the possible timing of two key milestones:
