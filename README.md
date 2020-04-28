@@ -66,4 +66,10 @@ Using forecasts tailored by country above, we can make a comparison between diff
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_multicountries_total_cumulated_cases.png">
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_multicountries_daily_new_cases.png">
+  
+## Analysis for Malaysia
 
+Article 1
+[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">Github</a>] 
+[<a href="https://twitter.com/YDLMalaysia/status/1246383903394258944">Publication 1</a>] 
+[<a href"https://twitter.com/smc_my/status/1246770114134822918">Publication 2</a>] 
