@@ -69,15 +69,18 @@ Using forecasts tailored by country above, we can make a comparison between diff
   
 ## Analysis for Malaysia
 
-Article 1 : <b>The Impact of Covid-19 Lockdown by Key Countries</b><p>
+Article 1 : <b>The Impact of Covid-19 Lockdown by Key Countries</b><br>
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">Github</a>] 
 [<a href="https://twitter.com/YDLMalaysia/status/1246383903394258944">Publication 1</a>] 
 [<a href="https://twitter.com/smc_my/status/1246770114134822918">Publication 2</a>] 
 <p>
-Article 2 : <b>Benchmarking Government Response On Covid-19 in Malaysia VS Key Countries</b><p>
+Article 2 : <b>Benchmarking Government Response On Covid-19 in Malaysia VS Key Countries</b><br>
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">Github</a>] 
 [<a href="https://twitter.com/YDLMalaysia/status/1248612597164683264">Publication</a>]
 <p>
-Article 3 : <b>Evaluating the Reliability of the Number of Confirmed Covid-19 Cases Reported by Various Countries</b><p>
+Article 3 : <b>Evaluating the Reliability of the Number of Confirmed Covid-19 Cases Reported by Various Countries</b><br>
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">Github</a>] 
 [<a href="https://twitter.com/YDLMalaysia/status/1252458428330438661">Publication</a>]
+<p>
+#### About Young Digital Leaders
+The Young Digital Leaders (YDL) is an initiative started by <a href="https://twitter.com/DhesiMD">Dr Dhesi BR</a> and <a href="https://twitter.com/DrAnwarFazal">Dr Anwar Fazal</a>, with the aim to solve global challenges (in health, environment, etc.) through utilisation of data. Data is constantly emerging and evolving, which complicate efforts to properly implement them without rapid and high quality analysis. In addressing the need to bridge traditional methods of solutions to modern-day analytics, data availability, sharing, access and analysis are vital to provide evidence for policy and decision making in both government and private setting. With a dynamic team of data scientists, statisticians, mathematicians, engineers and epidemiologists, YDL is driven to provide insight into current issues in Malaysia and at a global level – by sharing information through analyses, projections and modelling.
