@@ -1,4 +1,4 @@
-# Benchmarking the impact of government policies during lockdown on Covid-19 cases
+# Benchmarking the impact of government policies on Covid-19 cases
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Malaysia.png">
 <p>
 <p>
