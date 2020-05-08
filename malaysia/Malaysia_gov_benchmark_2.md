@@ -1,4 +1,7 @@
 # Benchmarking the impact of government policies on Covid-19
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/stringency_msia_rank_asiapac_2020-04-08.png"> <img src="https://github.com/khairulomar/Covid-19/blob/master/img/stringency_msia_rank_west_2020-04-08.png">
+<p>
+<p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_benchmark_tracing.png">
 <p>
 <p>
