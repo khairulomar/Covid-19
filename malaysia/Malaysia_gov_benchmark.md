@@ -33,3 +33,6 @@
 <p>
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_United_States.png">
+<p>
+<p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Jordan.png">
