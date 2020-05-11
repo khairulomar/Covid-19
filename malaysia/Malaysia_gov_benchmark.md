@@ -34,9 +34,9 @@ Data for the number of confirmed cases and deaths is obtained from <a href="http
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Vietnam.png">
 <p>
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_South_Korea.png">
-<p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Taiwan.png">
+<p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_South_Korea.png">
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Japan.png">
 <p>
