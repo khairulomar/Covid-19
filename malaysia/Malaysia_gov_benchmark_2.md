@@ -1,5 +1,5 @@
-# Covid-19 Government Response Tracker: A Dynamic Comparative Reflection of Global Performance
-<p>by Dr Dhesi Raja & Khairul Omar for Young Digital Leaders
+# Covid-19 Government Response Tracker
+<p>by Khairul Omar for Young Digital Leaders
 
 # OxCGRT Stringency Index a benchmarking tool
 
