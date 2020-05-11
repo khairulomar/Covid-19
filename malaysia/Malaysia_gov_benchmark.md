@@ -34,8 +34,6 @@ Data for the number of confirmed cases and deaths is obtained from <a href="http
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Australia.png">
 <p>
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Sweden.png">
-<p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Germany.png">
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Italy.png">
@@ -45,6 +43,8 @@ Data for the number of confirmed cases and deaths is obtained from <a href="http
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_France.png">
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_United_Kingdom.png">
+<p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Sweden.png">
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_United_States.png">
 
