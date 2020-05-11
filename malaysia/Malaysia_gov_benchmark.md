@@ -5,13 +5,11 @@
 
 Wide-ranging responses have been launched by countries around the world since the onset of the Covid-19 pandemic in their bid to minimize its toll within the shortest time possible. The enemy is unseen and its true nature unknown, with some governments either throwing all resources possible on one end of the spectrum, while others opt a more liberal approach by minimally restraining and relying upon good public literacy and trusting self-regulatory social measures.
 <p>
-Benchmarking governmental responses which may vary in timing and stringency as exemplified by the Oxford Covid-19 Government Response Tracker (OxCGRT) attempts to provide insights on the impacts following various state interventions. Towards the end, we shall visit various state interventions in the betterment of our understanding of how we have fared in relation to others.
+Benchmarking governmental responses which may vary in timing and stringency as exemplified by the <a href="https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker">Oxford Covid-19 Government Response Tracker</a> (OxCGRT) attempts to provide insights on the impacts following various state interventions. Towards the end, we shall visit various state interventions in the betterment of our understanding of how we have fared in relation to others.
 
 ## 2. Analysis of government responses by country and their impact on managing Covid-19
 
 Our comparative analysis goes further three-fold by combining disease trends of respective nations, testing and their stringency index over the past 70 days in our attempt to provide greater width and depth of the effectiveness of respective policies implemented.
-<p>
-Data for the number of confirmed cases and deaths is obtained from <a href="https://coronavirus.jhu.edu/">John Hopkins Coronavirus Resource Centre</a> while the number of tests performed is sourced from <a href="https://ourworldindata.org/coronavirus-testing">Our World in Data</a>, a collaboration between University of Oxford Martin Programme on Global Development and the non-profit organization Global Change Data Lab. For countries that do not publish their cumulative testing data on a daily basis, the number of daily tests between two non-consecutive dates where data is available are shown to be spread equally across this period. We also indicated the number of tests performed as a proportion of a country's population so that the figures are comparable between different countries. 
 
 ### 2.1 South Korea: government policies vs. cases
   
@@ -68,4 +66,3 @@ Various policies have been adopted by Malaysia with variable degrees of stringen
 
 ## 4. Conclusion
 Benchmarking stringencies as a performa of favourable policies can serve as   an important indicator in our quest to seek the best solutions. There is no ‘Magic Silver Bullet’ policy to date for comparisons or benchmarking to learn from. It should serve as a tool for continuous improvement on a journey to the finishing line of ending this pandemic.
-
