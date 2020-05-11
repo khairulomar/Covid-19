@@ -43,7 +43,7 @@ Strict public control measures were implemented in three phases from the onset. 
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Malaysia.png">  
 
-## 2.6 Ranking of Stringency Index: Malaysia vs other countries
+### 2.6 Ranking of Stringency Index: Malaysia vs other countries
 
 Malaysia was ranked at 68.4 as of 7 May 2020 on the Stringency Index ahead of developed nations such as Sweden and Austria. The total number of cases and deaths have been kept minimal throughout these measures.
 <p>
