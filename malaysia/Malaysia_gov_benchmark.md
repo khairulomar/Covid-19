@@ -1,4 +1,4 @@
-# Benchmarking the impact of government policies on Covid-19
+# Benchmarking government responses on Covid-19 and the impact on the number of cases
 ### by Khairul Omar for Young Digital Leaders
 
 ## OxCGRT Stringency Index
