@@ -49,7 +49,7 @@ Data for the number of confirmed cases and deaths is obtained from <a href="http
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_United_States.png">
 
 
-## Breakdown of government responses by category
+## Timeline of government responses by category
 
 In this section, we present the timeline of how each of the government response indicators has changed over the past 70 days by analysing each indicator at a time. This can be used to identify best practices for each category from other countries that can be learned and adopted in tackling the crisis.
 
