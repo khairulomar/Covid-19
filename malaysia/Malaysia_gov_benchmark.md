@@ -12,28 +12,38 @@ Benchmarking governmental responses which may vary in timing and stringency as e
 Our comparative analysis goes further three-fold by combining disease trends of respective nations, testing and their stringency index over the past 70 days in our attempt to provide greater width and depth of the effectiveness of respective policies implemented.
 <p>
 Data for the number of confirmed cases and deaths is obtained from <a href="https://coronavirus.jhu.edu/">John Hopkins Coronavirus Resource Centre</a> while the number of tests performed is sourced from <a href="https://ourworldindata.org/coronavirus-testing">Our World in Data</a>, a collaboration between University of Oxford Martin Programme on Global Development and the non-profit organization Global Change Data Lab. For countries that do not publish their cumulative testing data on a daily basis, the number of daily tests between two non-consecutive dates where data is available are shown to be spread equally across this period. We also indicated the number of tests performed as a proportion of a country's population so that the figures are comparable between different countries. 
-<p>
-The number of daily cases was successfully brought to a stable base-line after an initial peak. Reciprocating was a steady increase in the number of fatalities as expected with a steady decline. South Korea had a consistent Testing Policy (TP) complemented by an automated Contact Tracing Policy (CTP), both of which decisively instituted early and uninformedly. Apart from School Closure (SC) and Public Event Closure (PEC), South Korea eluded implementing stricter social measures via lock-downs. Arguably, both policies of CTP and TP were pivotal in their success without resorting to stifling public movement nor to socio-economic activities.
 
-### 2.2 South Korea
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_South_Korea.png">
+### 2.1 South Korea
+  
+The number of daily cases was successfully brought to a stable base-line after an initial peak. Reciprocating was a steady increase in the number of fatalities as expected with a steady decline. South Korea had a consistent Testing Policy (TP) complemented by an automated Contact Tracing Policy (CTP), both of which decisively instituted early and uninformedly. Apart from School Closure (SC) and Public Event Closure (PEC), South Korea eluded implementing stricter social measures via lock-downs. Arguably, both policies of CTP and TP were pivotal in their success without resorting to stifling public movement nor to socio-economic activities.
 <p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_South_Korea.png">
+
+### 2.2 Sweden
+
 Sweden had from the onset opted for a sustainable policy, one which aims to attain Herd Immunity (HI) without overwhelming their healthcare services nor compromising the economy to much effect. Community suppression was avoided apart from school closure (kindergarten through grade nine were open). As with South Korea, businesses and restaurants remained opened. Social distancing was self-imposed where many abided. Public literacy of the latter being an asset to their success as was the case in South Korea. Tests were minimal as were other stringent social measures. Both the number of cases and deaths (reaching 3000 cases as of early May) have steadily declined. With a population of 10 million, Sweden leads other Nordic nations in the number of deaths. Their policy of waiting for natural immunity to develop remains, which is largely supported by the nation.
 <p>
-
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Sweden.png">
 <p>
 Singapore had extensive tests conducted from the onset.  Similarly, as with South Korea, automated CT played an important role in containing the outbreak at the initial phase, though compounded of late by local transmissions and by the foreign worker clusters.  This is reflected by the late peaks of both cases and deaths of recent.  Noteworthy is their early decision to practice wide-spread testing and stringent automated CTP allowing early detection and decisive informed intervention.
-<p>
+
+### 2.3 Singapore
+
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Singapore.png">
 <p>
 Initially opting for HI as with Sweden, the UK made a late decision to impose stringent policies via lock-down and testing were ramped up in tandem. Clearly indecisiveness had resulted in the escalation of cases and with reciprocal deaths. The UK continues to struggle with healthcare facilities being overwhelmed with the economy tail-gaiting in the aftermath.
-<p>
+
+### 2.4 United Kingdom
+
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_United_Kingdom.png">
 <p>
-Strict public control measures were implemented in three phases from the onset. The number of official cases and deaths peaked gradually attaining an almost plateau-like crescendo with a decline following. Tests were incrementally instituted over time. Manual Contact Tracing is an on-going exercise in limiting the spread of the epidemic. The government’s recent policy in gradually retracting the Movement Control Order (MCO) and its subsequent results will be much anticipated over time both on effects on health and on the social-economic front.
+Initially opting for HI as with Sweden, the UK made a late decision to impose stringent policies via lock-down and testing were ramped up in tandem. Clearly indecisiveness had resulted in the escalation of cases and with reciprocal deaths. The UK continues to struggle with healthcare facilities being overwhelmed with the economy tail-gaiting in the aftermath.  
+
+### 2.5 Malaysia
+
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Malaysia.png">  
 <p>
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Malaysia.png">
+Strict public control measures were implemented in three phases from the onset. The number of official cases and deaths peaked gradually attaining an almost plateau-like crescendo with a decline following. Tests were incrementally instituted over time. Manual Contact Tracing is an on-going exercise in limiting the spread of the epidemic. The government’s recent policy in gradually retracting the Movement Control Order (MCO) and its subsequent results will be much anticipated over time both on effects on health and on the social-economic front.
 
 ## Timeline of government responses by country and their impact on managing Covid-19
   
