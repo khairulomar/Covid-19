@@ -1,4 +1,4 @@
-# Benchmarking government responses on Covid-19 and the impact on the number of cases
+# Covid19 Governmental Response Tracker: A Dynamic Comparative Reflection of Global Performance
 ### by Khairul Omar for Young Digital Leaders
 
 ## OxCGRT Stringency Index as a benchmarking tool
