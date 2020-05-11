@@ -31,8 +31,6 @@ Singapore had extensive tests conducted from the onset.  Similarly, as with Sout
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_vs_cases_Singapore.png">
 
-Initially opting for HI as with Sweden, the UK made a late decision to impose stringent policies via lock-down and testing were ramped up in tandem. Clearly indecisiveness had resulted in the escalation of cases and with reciprocal deaths. The UK continues to struggle with healthcare facilities being overwhelmed with the economy tail-gaiting in the aftermath.
-
 ### 2.4 United Kingdom: government policies vs. cases
 
 Initially opting for HI as with Sweden, the UK made a late decision to impose stringent policies via lock-down and testing were ramped up in tandem. Clearly indecisiveness had resulted in the escalation of cases and with reciprocal deaths. The UK continues to struggle with healthcare facilities being overwhelmed with the economy tail-gaiting in the aftermath.
