@@ -19,7 +19,7 @@ Note that OxCGRT <a href="https://www.bsg.ox.ac.uk/sites/default/files/OxCGRT. W
 
 ## Timeline of government responses by country and their impact on Covid-19 cases
 
-In this section, we present the timeline of testing figures and how each of the government response indicators have changed over the past 70 days. The impact of these government responses can then be analysed by the referencing the number of daily confirmed positive cases and deaths, detailed by key countries that can be benchmarked against the situation in Malaysia.
+In this section, we present the timeline of testing figures and how each of the government response indicators has changed over the past 70 days by examining one country at a time. The impact of these government responses can then be analysed by referencing the trend in the number confirmed positive cases and deaths that can be benchmarked against the situation in Malaysia.
 <p>
 Data for the number of confirmed cases and deaths is obtained from <a href="https://coronavirus.jhu.edu/">John Hopkins Coronavirus Resource Centre</a> while the number of tests performed is sourced from <a href="https://ourworldindata.org/coronavirus-testing">Our World in Data</a>, a collaboration between University of Oxford Martin Programme on Global Development and the non-profit organization Global Change Data Lab. For countries that do not publish their cumulative testing data on a daily basis, the number of daily tests between two non-consecutive dates where data is available are shown to be spread equally across this period.
 <p>
@@ -51,7 +51,7 @@ Data for the number of confirmed cases and deaths is obtained from <a href="http
 
 ## Breakdown of government responses by category
 
-In this section, we present the timeline how each of the government response indicators have changed over the past 70 days by analysing each indicator at a time. This can be used to identify best practices for each category from other countries that can be learned and adopted in tackling the crisis.
+In this section, we present the timeline of how each of the government response indicators has changed over the past 70 days by analysing each indicator at a time. This can be used to identify best practices for each category from other countries that can be learned and adopted in tackling the crisis.
 
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/gov_policy_benchmark_tracing.png">
 <p>
