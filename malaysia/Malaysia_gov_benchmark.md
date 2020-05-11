@@ -9,7 +9,7 @@ Benchmarking governmental responses which may vary in timing and stringency as e
 
 ## 2. Analysis of government responses by country and their impact on managing Covid-19
 
-Our comparative analysis goes further three-fold by combining disease trends of respective nations, testing and their stringency index over the past 70 days in our attempt to provide greater width and depth of the effectiveness of respective policies implemented.
+Our comparative analysis goes further three-fold by combining disease trends of respective nations, testing and their stringency index in our attempt to provide greater width and depth of the effectiveness of respective policies implemented.
 <p>
 Data for the number of confirmed cases and deaths in the following sections is obtained from <a href="https://coronavirus.jhu.edu/">John Hopkins Coronavirus Resource Centre</a> while the number of tests performed is sourced from <a href="https://ourworldindata.org/coronavirus-testing">Our World in Data</a>, a collaboration between University of Oxford Martin Programme on Global Development and the non-profit organization Global Change Data Lab.
 
