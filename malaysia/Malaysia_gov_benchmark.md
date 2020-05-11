@@ -7,7 +7,7 @@ Wide-ranging responses have been launched by countries around the world since th
 <p>
 Benchmarking governmental responses which may vary in timing and stringency as exemplified by the <a href="https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker">Oxford Covid-19 Government Response Tracker</a> (OxCGRT) attempts to provide insights on the impacts following various state interventions. Towards the end, we shall visit various state interventions in the betterment of our understanding of how we have fared in relation to others.
 
-## 2. Performa of Different Nations 
+## 2. Performa of Different Countries
 
 Our comparative analysis goes further three-fold by combining disease trends of respective nations, testing and their stringency index in our attempt to provide greater width and depth of the effectiveness of respective policies implemented.
 <p>
