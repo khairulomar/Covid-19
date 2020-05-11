@@ -1,7 +1,7 @@
 # Benchmarking government responses on Covid-19 and the impact on the number of cases
 ### by Khairul Omar for Young Digital Leaders
 
-## OxCGRT Stringency Index
+## OxCGRT Stringency Index as a benchmarking tool
 
 University of Oxford’s Blavatnik School of Government is currently the leading authority in tracking government responses from around the world in handling Covid-19 crisis under its <a href="https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker">Coronavirus Government Response Tracker</a> (OxCGRT) data repository. Based on a set of responsive measures imposed by each government, OxCGRT generates a stringency index as a measure to rank countries on how strict government policies are, which is updated daily.
 <p>
