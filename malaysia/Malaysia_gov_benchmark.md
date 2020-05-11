@@ -3,6 +3,8 @@
 
 ## OxCGRT Stringency Index as a benchmarking tool
 
+Wide-ranging responses have been launched by countries around the world since the onset of the Covid-19 pandemic in their bid to minimize its toll within the shortest time possible. The enemy is unseen and its true nature unknown, with some governments either throwing all resources possible on one end of the spectrum, while others opt a more liberal approach by minimally restraining and relying upon good public literacy and trusting self-regulatory social measures.
+<p>
 University of Oxford’s Blavatnik School of Government is currently the leading authority in tracking government responses from around the world in handling Covid-19 crisis under its <a href="https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker">Coronavirus Government Response Tracker</a> (OxCGRT) data repository. Based on a set of responsive measures imposed by each government, OxCGRT generates a stringency index as a measure to rank countries on how strict government policies are, which is updated daily.
 <p>
 The stringency index is calculated based on nine indicators: school closure, workplace closure, public events cancellation, gathering restrictions, public transport closure, stay-at-home requirements, internal movement restrictions and immigration restrictions. The ninth indicator is public information campaign, which is included in the stringency index calculation but not shown in our charts since this is a universal practice in all countries to date. In addition, while not part of the index calculation method, we also report on two additional key indicators: contact tracing policy and testing policy which are critical in combatting the pandemic even after a lockdown is eased.
