@@ -94,4 +94,4 @@ co-authored with Dr Dhesi Raja and Dr Adlan Suhaimi
 [<a href="https://www.ydlmalaysia.com/covid-19-government-response-tracker-a-dynamic-comparative-reflection-of-global-performance/
   ">YDL Publication</a>]
 <p>
-<img href="https://github.com/khairulomar/Covid-19/blob/master/img/ydl-logo-horiz.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/ydl-logo-horiz.png?raw=true">
