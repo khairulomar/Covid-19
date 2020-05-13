@@ -84,7 +84,7 @@ published 4 Apr 2020
 <p>
 Article 2 : <b>Benchmarking Government Response On Covid-19 in Malaysia vs. Key Countries</b><br>
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_rank.md">My Github</a>] 
-[<a href="https://www.ydlmalaysia.com/benchmarking-government-response-on-covid-19-in-malaysia-vs-key-countries/">YDL Publication</a><br>
+[<a href="https://www.ydlmalaysia.com/benchmarking-government-response-on-covid-19-in-malaysia-vs-key-countries/">YDL Publication</a>]<br>
 published 10 Apr 2020
 
 <p>
