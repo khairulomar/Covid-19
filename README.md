@@ -67,7 +67,7 @@ Using forecasts tailored by country above, we can make a comparison between diff
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_multicountries_daily_new_cases.png">
   
-## Analysis on Covid-19 cases in Malaysia
+## My publications on Covid-19 analysis
 
 <a href="https://www.ydlmalaysia.com/">Young Digital Leaders</a> (YDL) is an initiative started by <a href="https://twitter.com/DhesiMD">Dr Dhesi Raja</a> and <a href="https://twitter.com/DrAnwarFazal">Dr Anwar Fazal</a>, with the aim to solve global challenges (in health, environment, etc.) through utilisation of data. Data is constantly emerging and evolving, which complicate efforts to properly implement them without rapid and high quality analysis. In addressing the need to bridge traditional methods of solutions to modern-day analytics, data availability, sharing, access and analysis are vital to provide evidence for policy and decision making in both government and private setting. With a dynamic team of data scientists, statisticians, mathematicians, engineers and epidemiologists, YDL is driven to provide insight into current issues in Malaysia and at a global level – by sharing information through analyses, projections and modelling.
 
