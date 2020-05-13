@@ -66,6 +66,9 @@ Using forecasts tailored by country above, we can make a comparison between diff
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_multicountries_total_cumulated_cases.png">
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_multicountries_daily_new_cases.png">
+<p>
+<p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/ydl-logo-horiz.png?raw=true">
   
 ## Analysis on Covid-19 cases in Malaysia
 
@@ -93,5 +96,3 @@ co-authored with Dr Dhesi Raja and Dr Adlan Suhaimi
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_gov_benchmark_2.md">My Github 2</a>] 
 [<a href="https://www.ydlmalaysia.com/covid-19-government-response-tracker-a-dynamic-comparative-reflection-of-global-performance/
   ">YDL Publication</a>]
-<p>
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/ydl-logo-horiz.png?raw=true">
