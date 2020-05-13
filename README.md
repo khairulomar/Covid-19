@@ -97,5 +97,5 @@ co-authored with Dr Dhesi Raja and Dr Adlan Suhaimi
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_gov_benchmark.md">My Github 1</a>] 
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_gov_benchmark_2.md">My Github 2</a>] 
 [<a href="https://www.ydlmalaysia.com/covid-19-government-response-tracker-a-dynamic-comparative-reflection-of-global-performance/
-  ">YDL Publication</a>] [a href="https://sciencemediacentremalaysia.com/analysis/2020/05/analysis-covid-19-governmental-response-a-comparative-reflection-of-the-malaysian-performa/">Science Media Centre Publication</a>
+  ">YDL Publication</a>] <a href="https://sciencemediacentremalaysia.com/analysis/2020/05/analysis-covid-19-governmental-response-a-comparative-reflection-of-the-malaysian-performa/">Science Media Centre Publication</a>
 <br>published 12 May 2020
