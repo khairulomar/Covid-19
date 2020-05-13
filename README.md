@@ -68,7 +68,9 @@ Using forecasts tailored by country above, we can make a comparison between diff
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_multicountries_daily_new_cases.png">
   
 ## Analysis on Covid-19 cases in Malaysia
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/ydl-logo-small.png?raw=true" align="left>In partnership with Young Digital Leaders (YDL), a group of data volunteers set up by officials from the Ministry of Health of Malaysia, I authored the following analysis to support decision-makers in tackling Covid-19 outbreak in the country:
+<img align="left" src="https://github.com/khairulomar/Covid-19/blob/master/img/ydl-logo-small.png?raw=true">                                                                                                      
+                                                                                                      
+In partnership with Young Digital Leaders (YDL), a group of data volunteers set up by officials from the Ministry of Health of Malaysia, I authored the following analysis to support decision-makers in tackling Covid-19 outbreak in the country:
 <p>
 Article 1 : <b>The Impact of Covid-19 Lockdown by Key Countries</b><br>
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">My Github</a>] 
