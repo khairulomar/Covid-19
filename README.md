@@ -89,7 +89,8 @@ Article 3 : <b>Evaluating the Reliability of the Number of Confirmed Covid-19 Ca
 Article 4 : <b>Covid-19 Government Response Tracker: A Dynamic Comparative Reflection of Global Performance</b><br>
 co-authored with Dr Dhesi Raja and Dr Adlan Suhaimi
 <br>
-[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_positive_estimate.md">My Github</a>] 
+[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_gov_benchmark.md">My Github 1</a>] 
+[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_gov_benchmark_2.md">My Github 2</a>] 
 [<a href="https://www.ydlmalaysia.com/covid-19-government-response-tracker-a-dynamic-comparative-reflection-of-global-performance/
   ">YDL Publication</a>]
 
