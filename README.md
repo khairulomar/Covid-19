@@ -67,31 +67,9 @@ Using forecasts tailored by country above, we can make a comparison between diff
 <p>
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_multicountries_daily_new_cases.png">
   
-## My publications on Covid-19 analysis
+## My published works on Covid-19 analysis
 
 <a href="https://www.ydlmalaysia.com/">Young Digital Leaders</a> (YDL) is an initiative started by <a href="https://twitter.com/DhesiMD">Dr Dhesi Raja</a> and <a href="https://twitter.com/DrAnwarFazal">Dr Anwar Fazal</a>, with the aim to solve global challenges (in health, environment, etc.) through utilisation of data. Data is constantly emerging and evolving, which complicate efforts to properly implement them without rapid and high quality analysis. In addressing the need to bridge traditional methods of solutions to modern-day analytics, data availability, sharing, access and analysis are vital to provide evidence for policy and decision making in both government and private setting. With a dynamic team of data scientists, statisticians, mathematicians, engineers and epidemiologists, YDL is driven to provide insight into current issues in Malaysia and at a global level – by sharing information through analyses, projections and modelling.
-
-<p>
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/ydl-logo-horiz.png?raw=true">                                         <p>                                                             
-In partnership with Young Digital Leaders, I authored the following analysis to support decision-makers in tackling Covid-19 outbreak in the country:
-<p>
-Article 1 : <b>The Impact of Covid-19 Lockdown by Key Countries</b><br>
-[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">My Github</a>] 
-[<a href="https://www.ydlmalaysia.com/the-impact-of-covid-19-lockdown-by-key-countries/">YDL Publication</a>] 
-[<a href="https://sciencemediacentremalaysia.com/analysis/2020/04/analysis-the-impact-of-covid-19-lockdown-by-key-countries-ydl-malaysia/">Science Media Centre Publication</a>]<br>
-published 4 Apr 2020
-
-<p>
-Article 2 : <b>Benchmarking Government Response On Covid-19 in Malaysia vs. Key Countries</b><br>
-[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_rank.md">My Github</a>] 
-[<a href="https://www.ydlmalaysia.com/benchmarking-government-response-on-covid-19-in-malaysia-vs-key-countries/">YDL Publication</a>]<br>
-published 10 Apr 2020
-
-<p>
-Article 3 : <b>Evaluating the Reliability of the Number of Confirmed Covid-19 Cases Reported by Various Countries</b><br>
-[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_positive_estimate.md">My Github</a>] 
-[<a href="https://www.ydlmalaysia.com/evaluating-the-reliability-of-the-number-of-confirmed-covid-19-cases-reported-by-various-countries/">YDL Publication</a>]<br>
-published 20 Apr 2020
 
 <p>
 Article 4 : <b>Covid-19 Government Response Tracker: A Dynamic Comparative Reflection of Global Performance</b><br>
@@ -100,5 +78,32 @@ co-authored with Dr Dhesi Raja and Dr Adlan Suhaimi
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_gov_benchmark.md">My Github 1</a>] 
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_gov_benchmark_2.md">My Github 2</a>] 
 [<a href="https://www.ydlmalaysia.com/covid-19-government-response-tracker-a-dynamic-comparative-reflection-of-global-performance/
-  ">YDL Publication</a>] [<a href="https://sciencemediacentremalaysia.com/analysis/2020/05/analysis-covid-19-governmental-response-a-comparative-reflection-of-the-malaysian-performa/">Science Media Centre Publication</a>]<br>
+  ">YDL publication</a>] [<a href="https://sciencemediacentremalaysia.com/analysis/2020/05/analysis-covid-19-governmental-response-a-comparative-reflection-of-the-malaysian-performa/">Science Media Centre publication</a>] [<a href="https://codeblue.galencentre.org/2020/05/14/discipline-tech-and-tests-key-weapons-against-covid-19-data-experts">Galen Centre publication</a>]<br>
 published 12 May 2020
+
+<p>
+Article 3 : <b>Evaluating the Reliability of the Number of Confirmed Covid-19 Cases Reported by Various Countries</b><br>
+[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_positive_estimate.md">My Github</a>] 
+[<a href="https://www.ydlmalaysia.com/evaluating-the-reliability-of-the-number-of-confirmed-covid-19-cases-reported-by-various-countries/">YDL publication</a>]<br>
+published 20 Apr 2020
+
+<p>
+Article 2 : <b>Benchmarking Government Response On Covid-19 in Malaysia vs. Key Countries</b><br>
+[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_rank.md">My Github</a>] 
+[<a href="https://www.ydlmalaysia.com/benchmarking-government-response-on-covid-19-in-malaysia-vs-key-countries/">YDL publication</a>]<br>
+published 10 Apr 2020
+
+<p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/ydl-logo-horiz.png?raw=true">                                         <p>                                                             
+In partnership with Young Digital Leaders, I authored the following analysis to support decision-makers in tackling Covid-19 outbreak in the country:
+<p>
+Article 1 : <b>The Impact of Covid-19 Lockdown by Key Countries</b><br>
+[<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">My Github</a>] 
+[<a href="https://www.ydlmalaysia.com/the-impact-of-covid-19-lockdown-by-key-countries/">YDL publication</a>] 
+[<a href="https://sciencemediacentremalaysia.com/analysis/2020/04/analysis-the-impact-of-covid-19-lockdown-by-key-countries-ydl-malaysia/">Science Media Centre publication</a>]<br>
+published 4 Apr 2020
+
+
+
+
+
