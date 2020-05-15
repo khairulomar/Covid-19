@@ -93,8 +93,7 @@ Article 2 : <b>Benchmarking Government Response On Covid-19 in Malaysia vs. Key 
 [<a href="https://www.ydlmalaysia.com/benchmarking-government-response-on-covid-19-in-malaysia-vs-key-countries/">YDL publication</a>]<br>
 published 10 Apr 2020
 
-<p>
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/ydl-logo-horiz.png?raw=true">                                         <p>                                                             
+<p>                                                             
 In partnership with Young Digital Leaders, I authored the following analysis to support decision-makers in tackling Covid-19 outbreak in the country:
 <p>
 Article 1 : <b>The Impact of Covid-19 Lockdown by Key Countries</b><br>
@@ -102,6 +101,9 @@ Article 1 : <b>The Impact of Covid-19 Lockdown by Key Countries</b><br>
 [<a href="https://www.ydlmalaysia.com/the-impact-of-covid-19-lockdown-by-key-countries/">YDL publication</a>] 
 [<a href="https://sciencemediacentremalaysia.com/analysis/2020/04/analysis-the-impact-of-covid-19-lockdown-by-key-countries-ydl-malaysia/">Science Media Centre publication</a>]<br>
 published 4 Apr 2020
+
+<p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/ydl-logo-horiz.png?raw=true">                                         
 
 
 
