@@ -70,7 +70,8 @@ Using forecasts tailored by country above, we can make a comparison between diff
 ## My published works on Covid-19 analysis
 
 <a href="https://www.ydlmalaysia.com/">Young Digital Leaders</a> (YDL) is an initiative started by <a href="https://twitter.com/DhesiMD">Dr Dhesi Raja</a> and <a href="https://twitter.com/DrAnwarFazal">Dr Anwar Fazal</a>, with the aim to solve global challenges (in health, environment, etc.) through utilisation of data. Data is constantly emerging and evolving, which complicate efforts to properly implement them without rapid and high quality analysis. In addressing the need to bridge traditional methods of solutions to modern-day analytics, data availability, sharing, access and analysis are vital to provide evidence for policy and decision making in both government and private setting. With a dynamic team of data scientists, statisticians, mathematicians, engineers and epidemiologists, YDL is driven to provide insight into current issues in Malaysia and at a global level – by sharing information through analyses, projections and modelling.
-
+<p>                                                             
+In partnership with Young Digital Leaders, I authored the following analysis to support decision-makers in tackling Covid-19 outbreak in the country:
 <p>
 Article 4 : <b>Covid-19 Government Response Tracker: A Dynamic Comparative Reflection of Global Performance</b><br>
 co-authored with Dr Dhesi Raja and Dr Adlan Suhaimi
@@ -93,8 +94,6 @@ Article 2 : <b>Benchmarking Government Response On Covid-19 in Malaysia vs. Key 
 [<a href="https://www.ydlmalaysia.com/benchmarking-government-response-on-covid-19-in-malaysia-vs-key-countries/">YDL publication</a>]<br>
 published 10 Apr 2020
 
-<p>                                                             
-In partnership with Young Digital Leaders, I authored the following analysis to support decision-makers in tackling Covid-19 outbreak in the country:
 <p>
 Article 1 : <b>The Impact of Covid-19 Lockdown by Key Countries</b><br>
 [<a href="https://github.com/khairulomar/Covid-19/blob/master/malaysia/Malaysia_lockdown.md">My Github</a>] 
