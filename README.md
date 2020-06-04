@@ -46,19 +46,19 @@ Using the technique applied and tested for China and South Korea, the model is r
 <p>
 The model performs better when the growth factor of the cumulative number of cases starts to show signs of a slowdown. When the number of cases continues to grow exponentially at a high rate however, the projected trajectory would be less reliable until more data points are available. Governments all over the world are exercising a similar caution when releasing their own expectations, which makes running a forecast beyond a week or two very difficult when cases are still growing exponentially. For this reason, forecasts by country below are shown with different versions to show how forecasts have changed as new information is available.
 <p>
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_States.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_Kingdom.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Spain.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Italy.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_France.png?raw=true">
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_Kingdom.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Germany.png?raw=true">
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_United_States.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Turkey.png?raw=true">
-<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Iran.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Belgium.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Switzerland.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Sweden.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Malaysia.png?raw=true">
 <img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Australia.png?raw=true">
+<img src="https://github.com/khairulomar/Covid-19/blob/master/img/forecast_Brazil.png?raw=true">
 <p>
 Using forecasts tailored by country above, we can make a comparison between different countries to see how the number cases has changed over the past one month and how it is forecasted to change over the next one month as shown in the two charts below.
 <p>
