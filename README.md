@@ -1,7 +1,5 @@
 # Forecasting the peak and plateau phases of Covid-19
 <b>by Khairul Omar</b><br>
-<a href="https://www.linkedin.com/in/khairulomar/">linkedin.com/in/khairulomar</a><br>
-khairul.omar@gmail.com
 <p>
 My analysis and forecast on the Coronavirus pandemic as it happens using daily raw data released by <a href="https://coronavirus.jhu.edu/map.html">John Hopkins University</a> is presented here. Data on this site will be updated frequently.
 <p>
